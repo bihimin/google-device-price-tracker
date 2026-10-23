@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:01:12.331857+00:00",
+  "generated_at": "2026-10-23T09:04:56.184196+00:00",
   "markets": {
     "jp": {
       "market_name": "Japan",
@@ -4007,13 +4007,6 @@
         {
           "product": "Fitbit Sense 2 Smartwatch",
           "offers": [
-            {
-              "platform": "Amazon Singapore",
-              "matched_title": "Google Fitbit Sense 2 - Smartwatch Women/Men - Fitness Watch with Built-in GPS and Phone Function - Fitness Tracking with Stress Management, ECG and Sleep Analysis - Compatible with Android/iOS",
-              "price": 260.92,
-              "url": "https://www.amazon.sg/s?k=Fitbit%20Sense%C2%A02%20Smartwatch",
-              "method": "scraped"
-            },
             {
               "platform": "Shopee Singapore",
               "url": "https://shopee.sg/search?keyword=Fitbit%20Sense%C2%A02%20Smartwatch",
