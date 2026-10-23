@@ -8,7 +8,12 @@ on:
     # cron ("0 18 * * *") if you want fresher data and are comfortable with
     # the extra request volume.
     - cron: "0 18 * * 1"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      debug_scrape:
+        description: "Log verbose per-request scrape diagnostics (for debugging a source that stopped matching)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -32,6 +37,7 @@ jobs:
       - name: Run scraper (Google Store + best-effort competitor prices)
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          DEBUG_SCRAPE: ${{ inputs.debug_scrape && '1' || '' }}
         run: python3 scraper/run.py
 
       - name: Commit updated data

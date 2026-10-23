@@ -44,10 +44,13 @@ import gzip
 import json
 import os
 import re
+import sys
 import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
+
+DEBUG = bool(os.environ.get("DEBUG_SCRAPE"))
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -57,7 +60,7 @@ USER_AGENT = (
 MAX_PLATFORMS_PER_MARKET = 5
 
 
-def _get(url: str, headers: dict | None = None) -> str | None:
+def _get(url: str, headers: dict | None = None, debug: bool = False) -> str | None:
     req = urllib.request.Request(
         url,
         headers={
@@ -72,8 +75,13 @@ def _get(url: str, headers: dict | None = None) -> str | None:
             raw = resp.read()
             if resp.headers.get("Content-Encoding") == "gzip":
                 raw = gzip.decompress(raw)
-            return raw.decode("utf-8", errors="ignore")
-    except Exception:
+            text = raw.decode("utf-8", errors="ignore")
+            if debug:
+                print(f"[_get] {url} -> {resp.status}, {len(text)} chars", file=sys.stderr)
+            return text
+    except Exception as e:
+        if debug:
+            print(f"[_get] {url} -> FAILED: {e!r}", file=sys.stderr)
         return None
 
 
@@ -204,9 +212,11 @@ def scrape_amazon(product_name: str, market_code: str, expected_price: float | N
     q = urllib.parse.quote(product_name)
     url = f"https://{domain}/s?k={q}"
     currency = AMAZON_CURRENCY.get(market_code, "")
-    html = _get(url, headers={"Cookie": f"i18n-prefs={currency}"} if currency else None)
+    html = _get(url, headers={"Cookie": f"i18n-prefs={currency}"} if currency else None, debug=DEBUG)
     if not html:
         return None
+    if DEBUG and ("Sorry" in html[:3000] or "api-services-support@amazon.com" in html or "captcha" in html.lower()):
+        print(f"[scrape_amazon] {market_code} '{product_name}': looks like a block/CAPTCHA page ({len(html)} chars)", file=sys.stderr)
 
     # Split into one block per result card so a title is only ever paired
     # with a price from its own card (not a neighbour's strikethrough price,
@@ -237,6 +247,9 @@ def scrape_amazon(product_name: str, market_code: str, expected_price: float | N
             continue
         candidates.append({"title": title, "price": price})
 
+    if DEBUG:
+        print(f"[scrape_amazon] {market_code} '{product_name}': {len(blocks)} blocks, "
+              f"{len(candidates)} candidates before price filter", file=sys.stderr)
     candidates = _closest_by_price(candidates, lambda c: c["price"], expected_price)
     if not candidates:
         return None
