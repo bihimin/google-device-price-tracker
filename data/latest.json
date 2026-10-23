@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:08:35.914296+00:00",
+  "generated_at": "2026-10-23T07:59:22.944066+00:00",
   "markets": {
     "jp": {
       "market_name": "Japan",
@@ -629,88 +629,16 @@
           "name": "Google Pixel Watch 5",
           "variants": [
             {
-              "variant": "Google Pixel Watch 5（41 mm）Polished Silver アルミケース / Fog アクティブ バンド Wi-Fi",
+              "variant": null,
               "price": 62800.0,
               "currency": "JPY",
-              "availability": "InStock"
+              "availability": "Unknown"
             },
             {
-              "variant": "Google Pixel Watch 5（41 mm）Matte Black アルミケース / Obsidian アクティブ バンド Wi-Fi",
+              "variant": null,
               "price": 62800.0,
               "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（41 mm）Champagne Gold アルミケース / Canyon アクティブ バンド Wi-Fi",
-              "price": 62800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（41 mm）Satin Pyrite アルミケース / Olive アクティブ バンド Wi-Fi",
-              "price": 62800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（45 mm）Polished Silver アルミケース / Fog アクティブ バンド Wi-Fi",
-              "price": 67800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（45 mm）Matte Black アルミケース / Obsidian アクティブ バンド Wi-Fi",
-              "price": 67800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（45 mm）Satin Pyrite アルミケース / Olive アクティブ バンド Wi-Fi",
-              "price": 67800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（41 mm）Polished Silver アルミケース / Fog アクティブ バンド LTE",
-              "price": 79800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（41 mm）Matte Black アルミケース / Obsidian アクティブ バンド LTE",
-              "price": 79800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（41 mm）Champagne Gold アルミケース / Canyon アクティブ バンド LTE",
-              "price": 79800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（41 mm）Satin Pyrite アルミケース / Olive アクティブ バンド LTE",
-              "price": 79800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（45 mm）Polished Silver アルミケース / Fog アクティブ バンド LTE",
-              "price": 84800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（45 mm）Matte Black アルミケース / Obsidian アクティブ バンド LTE",
-              "price": 84800.0,
-              "currency": "JPY",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Google Pixel Watch 5（45 mm）Satin Pyrite アルミケース / Olive アクティブ バンド LTE",
-              "price": 84800.0,
-              "currency": "JPY",
-              "availability": "InStock"
+              "availability": "Unknown"
             }
           ]
         },
@@ -722,25 +650,6 @@
             {
               "variant": null,
               "price": 52800.0,
-              "currency": "JPY",
-              "availability": "Unknown"
-            }
-          ]
-        },
-        {
-          "slug": "pixel_watch_5",
-          "type": "config",
-          "name": "Google Pixel Watch 5",
-          "variants": [
-            {
-              "variant": null,
-              "price": 62800.0,
-              "currency": "JPY",
-              "availability": "Unknown"
-            },
-            {
-              "variant": null,
-              "price": 62800.0,
               "currency": "JPY",
               "availability": "Unknown"
             }
@@ -2082,25 +1991,13 @@
         {
           "slug": "fitbit_inspire_3",
           "type": "config",
-          "name": "Buy Fitbit Inspire 3 health and fitness tracker",
+          "name": "Fitbit Inspire 3 tracker",
           "variants": [
             {
-              "variant": "Fitbit Inspire 3 (Midnight Zen  /  Black)",
+              "variant": null,
               "price": 179.95,
               "currency": "AUD",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Fitbit Inspire 3 (Lilac Bliss  /  Black)",
-              "price": 179.95,
-              "currency": "AUD",
-              "availability": "InStock"
-            },
-            {
-              "variant": "Fitbit Inspire 3 (Morning Glow  /  Black)",
-              "price": 179.95,
-              "currency": "AUD",
-              "availability": "InStock"
+              "availability": "Unknown"
             }
           ]
         },
@@ -2824,26 +2721,26 @@
           ]
         },
         {
-          "product": "Fitbit Inspire 3 health and fitness tracker",
+          "product": "Fitbit Inspire 3 tracker",
           "offers": [
             {
               "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Inspire%C2%A03%20tracker",
               "method": "search_link"
             },
             {
               "platform": "JB Hi-Fi",
-              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Inspire%C2%A03%20tracker",
               "method": "search_link"
             },
             {
               "platform": "Officeworks",
-              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Inspire%C2%A03%20tracker",
               "method": "search_link"
             },
             {
               "platform": "Harvey Norman",
-              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Inspire%C2%A03%20tracker",
               "method": "search_link"
             }
           ]
