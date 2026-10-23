@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:59:22.944066+00:00",
+  "generated_at": "2026-10-23T09:01:12.331857+00:00",
   "markets": {
     "jp": {
       "market_name": "Japan",
@@ -661,11 +661,6 @@
           "product": "Fitbit Charge 6 トラッカー",
           "offers": [
             {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
-              "method": "search_link"
-            },
-            {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/",
               "method": "search_link"
@@ -679,17 +674,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Inspire 3 トラッカー",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/",
@@ -704,17 +699,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Sense 2 スマートウォッチ",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/",
@@ -729,17 +724,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Versa 4 スマートウォッチ",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/",
@@ -754,17 +749,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Air",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Air",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Air/",
@@ -779,17 +774,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Air",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Fitbit%20Air/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Edge",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Edge",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Edge/",
@@ -804,17 +799,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Edge",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Fitbit%20Edge/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Health アプリ",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Health%20%E3%82%A2%E3%83%97%E3%83%AA",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Health%20%E3%82%A2%E3%83%97%E3%83%AA/",
@@ -829,17 +824,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Health%20%E3%82%A2%E3%83%97%E3%83%AA",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Health%20%E3%82%A2%E3%83%97%E3%83%AA/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Home スピーカー",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/",
@@ -854,17 +849,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Hub Max",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Nest%20Hub%20Max",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Nest%20Hub%20Max/",
@@ -879,17 +874,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Nest%20Hub%20Max",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Nest%20Hub%20Max/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "TV Streamer (4K)",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=TV%20Streamer%20%284K%29",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/TV%20Streamer%20%284K%29/",
@@ -904,17 +899,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=TV%20Streamer%20%284K%29",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/TV%20Streamer%20%284K%29/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam (屋内、屋外対応 / バッテリー式)",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29/",
@@ -929,17 +924,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam Indoor（電源アダプター式 / 第 3 世代）",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
@@ -954,17 +949,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam Outdoor（電源アダプター式 / 第 2 世代）",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
@@ -979,17 +974,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Doorbell (Battery Type)",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Nest%20Doorbell%20%28Battery%20Type%29",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Nest%20Doorbell%20%28Battery%20Type%29/",
@@ -1004,17 +999,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Nest%20Doorbell%20%28Battery%20Type%29",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Nest%20Doorbell%20%28Battery%20Type%29/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Hub（第 2 世代）",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
@@ -1029,17 +1024,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "新しい Google Pixel 10 のご紹介",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B/",
@@ -1054,17 +1049,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "新しい Google Tensor G5 チップを搭載した Google Pixel 10 Pro / Google Pixel 10 Pro XL を手に入れよう",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86/",
@@ -1079,17 +1074,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10 Pro Fold は Moonstone と Jade の 2 色展開",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B/",
@@ -1104,17 +1099,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10a",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2010a",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%2010a/",
@@ -1129,17 +1124,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%2010a",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%2010a/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2011",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011/",
@@ -1154,17 +1149,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%2011/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11 Pro",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro/",
@@ -1179,17 +1174,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%2011%20Pro/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11 Pro Fold",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro%20Fold",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro%20Fold/",
@@ -1204,17 +1199,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro%20Fold",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%2011%20Pro%20Fold/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Buds 2a",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%20Buds%202a",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Buds%202a/",
@@ -1229,17 +1224,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Buds%202a",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%20Buds%202a/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Buds Pro 2",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%20Buds%20Pro%202",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Buds%20Pro%202/",
@@ -1254,17 +1249,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Buds%20Pro%202",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%20Buds%20Pro%202/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Watch 5",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%20Watch%205",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Watch%205/",
@@ -1279,17 +1274,17 @@
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Watch%205",
               "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%20Watch%205/",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Watch 4",
           "offers": [
-            {
-              "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%20Watch%204",
-              "method": "search_link"
-            },
             {
               "platform": "Rakuten Ichiba",
               "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Watch%204/",
@@ -1303,6 +1298,11 @@
             {
               "platform": "Biccamera",
               "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Kakaku.com (price comparison)",
+              "url": "https://kakaku.com/search_results/Pixel%20Watch%204/",
               "method": "search_link"
             }
           ]
@@ -1673,11 +1673,6 @@
           "product": "Fitbit Air",
           "offers": [
             {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Fitbit%20Air",
-              "method": "search_link"
-            },
-            {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Fitbit%20Air",
               "method": "search_link"
@@ -1691,17 +1686,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Fitbit%20Air",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Fitbit%20Air",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Discover the New Google Pixel 10",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Discover%20the%20New%20Google%20Pixel%2010",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Discover%20the%20New%20Google%20Pixel%2010",
@@ -1716,17 +1711,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Discover%20the%20New%20Google%20Pixel%2010",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Discover%20the%20New%20Google%20Pixel%2010",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10 Pro or Pixel 10 Pro XL",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
@@ -1741,17 +1736,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10 Pro Fold",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%2010%20Pro%20Fold",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%2010%20Pro%20Fold",
@@ -1766,17 +1761,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%2010%20Pro%20Fold",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10a, Built for Real Life",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%2010a%2C%20Built%20for%20Real%20Life",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%2010a%2C%20Built%20for%20Real%20Life",
@@ -1791,17 +1786,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%2010a%2C%20Built%20for%20Real%20Life",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%2010a%2C%20Built%20for%20Real%20Life",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%2011",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%2011",
@@ -1816,17 +1811,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%2011",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%2011",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11 Pro",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%2011%20Pro",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%2011%20Pro",
@@ -1841,17 +1836,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%2011%20Pro",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%2011%20Pro",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11 Pro Fold",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%2011%20Pro%20Fold",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%2011%20Pro%20Fold",
@@ -1866,17 +1861,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%2011%20Pro%20Fold",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Buds 2a",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%20Buds%202a",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%20Buds%202a",
@@ -1891,17 +1886,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%20Buds%202a",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%20Buds%202a",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Buds Pro 2",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%20Buds%20Pro%202",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%20Buds%20Pro%202",
@@ -1916,17 +1911,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%20Buds%20Pro%202",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Watch 5",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%20Watch%205",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%20Watch%205",
@@ -1941,17 +1936,17 @@
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%20Watch%205",
               "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%20Watch%205",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Watch 4",
           "offers": [
-            {
-              "platform": "Amazon India",
-              "url": "https://www.amazon.in/s?k=Pixel%20Watch%204",
-              "method": "search_link"
-            },
             {
               "platform": "Flipkart",
               "url": "https://www.flipkart.com/search?q=Pixel%20Watch%204",
@@ -1965,6 +1960,11 @@
             {
               "platform": "Reliance Digital",
               "url": "https://www.reliancedigital.in/search?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Tata Cliq",
+              "url": "https://www.tatacliq.com/search/?searchCategory=all&text=Pixel%20Watch%204",
               "method": "search_link"
             }
           ]
@@ -2699,11 +2699,6 @@
           "product": "Fitbit Charge 6 Tracker",
           "offers": [
             {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Charge%C2%A06%20Tracker",
-              "method": "search_link"
-            },
-            {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Charge%C2%A06%20Tracker",
               "method": "search_link"
@@ -2717,17 +2712,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Charge%C2%A06%20Tracker",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Inspire 3 tracker",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Inspire%C2%A03%20tracker",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Inspire%C2%A03%20tracker",
@@ -2742,17 +2737,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Inspire%C2%A03%20tracker",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Fitbit%20Inspire%C2%A03%20tracker",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Sense 2 Smartwatch",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Sense%C2%A02%20Smartwatch",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Sense%C2%A02%20Smartwatch",
@@ -2767,17 +2762,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Sense%C2%A02%20Smartwatch",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Versa 4 Smartwatch",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Versa%204%20Smartwatch",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Versa%204%20Smartwatch",
@@ -2792,17 +2787,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Versa%204%20Smartwatch",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Air",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Air",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Air",
@@ -2817,17 +2812,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Air",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Fitbit%20Air",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Fitbit Edge",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Fitbit%20Edge",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Edge",
@@ -2842,17 +2837,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Edge",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Fitbit%20Edge",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Health App",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Health%20App",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Health%20App",
@@ -2867,17 +2862,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Health%20App",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Health%20App",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Home Speaker",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Home%20Speaker",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Home%20Speaker",
@@ -2892,17 +2887,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Home%20Speaker",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Home%20Speaker",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Hub Max",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Hub%20Max",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Hub%20Max",
@@ -2917,17 +2912,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Hub%20Max",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Hub%20Max",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "TV Streamer (4K)",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=TV%20Streamer%20%284K%29",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=TV%20Streamer%20%284K%29",
@@ -2942,17 +2937,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=TV%20Streamer%20%284K%29",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=TV%20Streamer%20%284K%29",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam (outdoor or indoor, battery)",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
@@ -2967,17 +2962,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Cam",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam",
@@ -2992,17 +2987,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Cam",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam Indoor (wired, 3rd gen)",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
@@ -3017,17 +3012,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Cam Outdoor (wired, 2nd gen)",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
@@ -3042,17 +3037,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Doorbell (battery)",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Doorbell%20%28battery%29",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Doorbell%20%28battery%29",
@@ -3067,17 +3062,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Doorbell%20%28battery%29",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Doorbell%20%28battery%29",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Hub (2nd gen)",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Hub%20%282nd%20gen%29",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Hub%20%282nd%20gen%29",
@@ -3092,17 +3087,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Hub%20%282nd%20gen%29",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Nest Wifi Pro",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Nest%20Wifi%20Pro",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Nest%20Wifi%20Pro",
@@ -3117,17 +3112,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Wifi%20Pro",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Nest%20Wifi%20Pro",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010",
@@ -3142,17 +3137,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%C2%A010",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10 Pro or Pixel 10 Pro XL",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
@@ -3167,17 +3162,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10 Pro Fold",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010%C2%A0Pro%20Fold",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010%C2%A0Pro%20Fold",
@@ -3192,17 +3187,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010%C2%A0Pro%20Fold",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%C2%A010%C2%A0Pro%20Fold",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 10a, built for real life",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010a%2C%20built%20for%20real%20life",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
@@ -3217,17 +3212,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%2011",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%2011",
@@ -3242,17 +3237,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%2011",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11 Pro",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%2011%20Pro",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%2011%20Pro",
@@ -3267,17 +3262,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011%20Pro",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%2011%20Pro",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel 11 Pro Fold",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%2011%20Pro%20Fold",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%2011%20Pro%20Fold",
@@ -3292,17 +3287,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011%20Pro%20Fold",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Buds 2a",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%20Buds%202a",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%20Buds%202a",
@@ -3317,17 +3312,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Buds%202a",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%20Buds%202a",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Buds Pro 2",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%20Buds%C2%A0Pro%C2%A02",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%20Buds%C2%A0Pro%C2%A02",
@@ -3342,17 +3337,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Buds%C2%A0Pro%C2%A02",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Watch 5",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%20Watch%205",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%20Watch%205",
@@ -3367,17 +3362,17 @@
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Watch%205",
               "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%20Watch%205",
+              "method": "search_link"
             }
           ]
         },
         {
           "product": "Pixel Watch 4",
           "offers": [
-            {
-              "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%20Watch%204",
-              "method": "search_link"
-            },
             {
               "platform": "JB Hi-Fi",
               "url": "https://www.jbhifi.com.au/search?q=Pixel%20Watch%204",
@@ -3391,6 +3386,11 @@
             {
               "platform": "Harvey Norman",
               "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "The Good Guys",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%20Watch%204",
               "method": "search_link"
             }
           ]
@@ -4007,6 +4007,13 @@
         {
           "product": "Fitbit Sense 2 Smartwatch",
           "offers": [
+            {
+              "platform": "Amazon Singapore",
+              "matched_title": "Google Fitbit Sense 2 - Smartwatch Women/Men - Fitness Watch with Built-in GPS and Phone Function - Fitness Tracking with Stress Management, ECG and Sleep Analysis - Compatible with Android/iOS",
+              "price": 260.92,
+              "url": "https://www.amazon.sg/s?k=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "scraped"
+            },
             {
               "platform": "Shopee Singapore",
               "url": "https://shopee.sg/search?keyword=Fitbit%20Sense%C2%A02%20Smartwatch",
@@ -4971,13 +4978,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Charge%206%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Charge%206%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Fitbit%20Charge%206%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
               "method": "search_link"
             }
           ]
@@ -4991,13 +4993,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Inspire%203%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Inspire%203%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Fitbit%20Inspire%203%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
               "method": "search_link"
             }
           ]
@@ -5011,13 +5008,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Sense%202%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Sense%202%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Fitbit%20Sense%202%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
               "method": "search_link"
             }
           ]
@@ -5031,13 +5023,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Versa%204%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Versa%204%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Fitbit%20Versa%204%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
               "method": "search_link"
             }
           ]
@@ -5051,13 +5038,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=TV%20Streamer%20%284K%29",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=TV%20Streamer%20%284K%29",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/TV%20Streamer%20%284K%29",
               "method": "search_link"
             }
           ]
@@ -5071,13 +5053,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Nest%20Hub%20%28%E7%AC%AC%202%20%E4%BB%A3%29",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Nest%20Hub%20%28%E7%AC%AC%202%20%E4%BB%A3%29",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Nest%20Hub%20%28%E7%AC%AC%202%20%E4%BB%A3%29",
               "method": "search_link"
             }
           ]
@@ -5086,26 +5063,13 @@
           "product": "Pixel 10",
           "offers": [
             {
-              "platform": "PChome 24h",
-              "matched_title": "【B+福利品】Pixel 10 PRO XL 5G (16G/256G)",
-              "price": 26290,
-              "original_price": 26290,
-              "url": "https://24h.pchome.com.tw/prod/DYAX06-A900KIQER",
-              "method": "scraped"
-            },
-            {
               "platform": "momo購物網",
               "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2010",
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2010",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2010",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%2010",
               "method": "search_link"
             }
           ]
@@ -5119,53 +5083,46 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2010%20Pro%20%E6%88%96%20Pixel%2010%20Pro%20XL",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2010%20Pro%20%E6%88%96%20Pixel%2010%20Pro%20XL",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%2010%20Pro%20%E6%88%96%20Pixel%2010%20Pro%20XL",
               "method": "search_link"
             }
           ]
         },
         {
-          "product": "購買月岩灰或綠玉色 Google Pixel 10 Pro Fold",
+          "product": "月岩灰或綠玉色 Google Pixel 10 Pro Fold",
           "offers": [
             {
               "platform": "momo購物網",
-              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E8%B3%BC%E8%B2%B7%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=%E8%B3%BC%E8%B2%B7%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=%E8%B3%BC%E8%B2%B7%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
               "method": "search_link"
             }
           ]
         },
         {
-          "product": "購買 Google Pixel 10a，日常所需，一機到位",
+          "product": "Pixel 10a，日常所需，一機到位",
           "offers": [
             {
+              "platform": "PChome 24h",
+              "matched_title": "Pixel 10a (8GB/256GB)",
+              "price": 17618,
+              "original_price": 17618,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3O-1900K1M5R",
+              "method": "scraped"
+            },
+            {
               "platform": "momo購物網",
-              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E8%B3%BC%E8%B2%B7%20Google%20Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=%E8%B3%BC%E8%B2%B7%20Google%20Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=%E8%B3%BC%E8%B2%B7%20Google%20Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
               "method": "search_link"
             }
           ]
@@ -5178,7 +5135,7 @@
               "matched_title": "Pixel 11 12G/256G",
               "price": 29990,
               "original_price": 29990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIY0",
+              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIWQ",
               "method": "scraped"
             },
             {
@@ -5187,13 +5144,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2011",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2011",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%2011",
               "method": "search_link"
             }
           ]
@@ -5202,18 +5154,20 @@
           "product": "Pixel 11 Pro",
           "offers": [
             {
+              "platform": "Yahoo奇摩購物中心",
+              "matched_title": "Google Pixel 11 Pro 5G (12G/256G) 6.3吋智慧型手機",
+              "price": 34990.0,
+              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-5G-12G-256G-6-3吋智慧型手機-12307333.html",
+              "method": "scraped"
+            },
+            {
               "platform": "momo購物網",
               "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2011%20Pro",
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2011%20Pro",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2011%20Pro",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%2011%20Pro",
               "method": "search_link"
             }
           ]
@@ -5230,18 +5184,20 @@
               "method": "scraped"
             },
             {
+              "platform": "Yahoo奇摩購物中心",
+              "matched_title": "Google Pixel 11 Pro Fold 5G (16G/256G) 摺疊機",
+              "price": 58990.0,
+              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-Fold-5G-16G-256G-摺疊機-12307197.html",
+              "method": "scraped"
+            },
+            {
               "platform": "momo購物網",
               "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2011%20Pro%20Fold",
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2011%20Pro%20Fold",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2011%20Pro%20Fold",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%2011%20Pro%20Fold",
               "method": "search_link"
             }
           ]
@@ -5255,13 +5211,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Buds%202a",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Buds%202a",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%20Buds%202a",
               "method": "search_link"
             }
           ]
@@ -5275,13 +5226,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Buds%20Pro%202",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Buds%20Pro%202",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%20Buds%20Pro%202",
               "method": "search_link"
             }
           ]
@@ -5303,13 +5249,8 @@
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Watch%205",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Watch%205",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%20Watch%205",
               "method": "search_link"
             }
           ]
@@ -5318,18 +5259,20 @@
           "product": "Pixel Watch 4",
           "offers": [
             {
+              "platform": "Yahoo奇摩購物中心",
+              "matched_title": "Google pixel watch 4 45mm Bluetooth/Wi-Fi 智慧手錶",
+              "price": 12490.0,
+              "url": "https://tw.buy.yahoo.com/gdsale/Google-pixel-watch-4-45mm-Bluetooth-Wi-Fi-智慧手錶-11883187.html",
+              "method": "scraped"
+            },
+            {
               "platform": "momo購物網",
               "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%20Watch%204",
               "method": "search_link"
             },
             {
-              "platform": "Yahoo奇摩購物中心",
-              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Watch%204",
-              "method": "search_link"
-            },
-            {
-              "platform": "Pchome 商店街",
-              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Watch%204",
+              "platform": "全國電子",
+              "url": "https://www.allstar.com.tw/searchProduct/Pixel%20Watch%204",
               "method": "search_link"
             }
           ]
