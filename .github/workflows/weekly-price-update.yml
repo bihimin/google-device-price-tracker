@@ -1,10 +1,13 @@
-name: Daily price update
+name: Weekly price update
 
 on:
   schedule:
-    # 18:00 UTC = early morning across all 5 tracked markets (JP/AU/SG/TW next
-    # day, IN same evening) -- adjust to taste.
-    - cron: "0 18 * * *"
+    # Monday 18:00 UTC = early morning Tue across JP/AU/SG/TW, Monday evening
+    # IN. Weekly (not daily) by design: phone/device prices don't move daily,
+    # and it's gentler on the retail sites being scraped. Bump to a daily
+    # cron ("0 18 * * *") if you want fresher data and are comfortable with
+    # the extra request volume.
+    - cron: "0 18 * * 1"
   workflow_dispatch: {}
 
 permissions:
@@ -36,8 +39,8 @@ jobs:
           git config user.name "price-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet && echo "No price changes today" && exit 0
-          git commit -m "Daily price update $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet && echo "No price changes this week" && exit 0
+          git commit -m "Weekly price update $(date -u +%Y-%m-%d)"
           git push
 
       - uses: actions/configure-pages@v5

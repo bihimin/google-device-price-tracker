@@ -86,7 +86,7 @@ function renderShell() {
 
 function cleanName(name) {
   return name
-    .replace(/^(Buy|Discover the [Nn]ew|Explore|認識全新|購買搭載[^的]*的|立即購買)\s*/i, "")
+    .replace(/^(Buy|Discover the [Nn]ew|Explore|認識全新|購買搭載[^的]*的|立即購買|購買)\s*/i, "")
     .split(" with ")[0]
     .split(" in ")[0]
     .trim()
