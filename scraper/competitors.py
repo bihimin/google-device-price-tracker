@@ -400,29 +400,39 @@ def _serpapi_price(product_name: str, google_domain: str, gl: str, hl: str) -> d
 # ---------------------------------------------------------------------------
 # Tier 2: deep-link fallbacks (platform search URL, no scraped price)
 # ---------------------------------------------------------------------------
-# Amazon is deliberately absent here -- it's a real scrape (scrape_amazon)
-# in every market above, so it's injected first instead.
+# Amazon is listed here too, even though scrape_amazon() is a real scrape:
+# Amazon's edge/WAF layer blocks GitHub Actions' (and most cloud providers')
+# datacenter IP ranges with a 503 far more often than it serves real search
+# results, so scrape_amazon() frequently returns None in CI even though it
+# works fine from a residential-ish IP during local development. When the
+# scrape succeeds this entry is skipped as a duplicate (see scrape_market);
+# when it doesn't, this is the honest fallback instead of silently dropping
+# the market's biggest marketplace from the comparison.
 
 FALLBACK_PLATFORMS = {
     "jp": [
+        ("Amazon Japan", "https://www.amazon.co.jp/s?k={q}"),
         ("Rakuten Ichiba", "https://search.rakuten.co.jp/search/mall/{q}/"),
         ("Yodobashi Camera", "https://www.yodobashi.com/?word={q}"),
         ("Biccamera", "https://www.biccamera.com/bc/result/?q={q}"),
         ("Kakaku.com (price comparison)", "https://kakaku.com/search_results/{q}/"),
     ],
     "in": [
+        ("Amazon India", "https://www.amazon.in/s?k={q}"),
         ("Flipkart", "https://www.flipkart.com/search?q={q}"),
         ("Croma", "https://www.croma.com/searchB?q={q}%3Arelevance"),
         ("Reliance Digital", "https://www.reliancedigital.in/search?q={q}"),
         ("Tata Cliq", "https://www.tatacliq.com/search/?searchCategory=all&text={q}"),
     ],
     "au": [
+        ("Amazon Australia", "https://www.amazon.com.au/s?k={q}"),
         ("JB Hi-Fi", "https://www.jbhifi.com.au/search?q={q}"),
         ("Officeworks", "https://www.officeworks.com.au/shop/officeworks/search?q={q}"),
         ("Harvey Norman", "https://www.harveynorman.com.au/catalogsearch/result/?q={q}"),
         ("The Good Guys", "https://www.thegoodguys.com.au/search?q={q}"),
     ],
     "sg": [
+        ("Amazon Singapore", "https://www.amazon.sg/s?k={q}"),
         ("Shopee Singapore", "https://shopee.sg/search?keyword={q}"),
         ("Lazada Singapore", "https://www.lazada.sg/catalog/?q={q}"),
         ("Challenger", "https://www.challenger.sg/catalogsearch/result/?q={q}"),
