@@ -1,0 +1,5443 @@
+{
+  "generated_at": "2026-10-23T05:08:35.914296+00:00",
+  "markets": {
+    "jp": {
+      "market_name": "Japan",
+      "currency": "JPY",
+      "google_store": [
+        {
+          "slug": "fitbit_charge_6",
+          "type": "config",
+          "name": "Fitbit Charge 6 トラッカー",
+          "variants": [
+            {
+              "variant": null,
+              "price": 23800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_inspire_3",
+          "type": "config",
+          "name": "Fitbit Inspire 3 トラッカー",
+          "variants": [
+            {
+              "variant": null,
+              "price": 12800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_sense_2",
+          "type": "config",
+          "name": "Fitbit Sense 2 スマートウォッチ",
+          "variants": [
+            {
+              "variant": null,
+              "price": 32800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_versa_4",
+          "type": "config",
+          "name": "Fitbit Versa 4 スマートウォッチ",
+          "variants": [
+            {
+              "variant": null,
+              "price": 27800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_fitbit_air",
+          "type": "config",
+          "name": "Google Fitbit Air",
+          "variants": [
+            {
+              "variant": null,
+              "price": 16800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_fitbit_edge",
+          "type": "config",
+          "name": "Google Fitbit Edge",
+          "variants": [
+            {
+              "variant": null,
+              "price": 26800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_health_premium",
+          "type": "config",
+          "name": "Google Health アプリ",
+          "variants": [
+            {
+              "variant": null,
+              "price": 1580.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_home_speaker",
+          "type": "config",
+          "name": "Google Home スピーカー",
+          "variants": [
+            {
+              "variant": null,
+              "price": 16800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_nest_hub_max",
+          "type": "config",
+          "name": "Google Nest Hub Max",
+          "variants": [
+            {
+              "variant": null,
+              "price": 28050.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_tv_streamer",
+          "type": "config",
+          "name": "Google TV Streamer (4K)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 16000.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_battery",
+          "type": "config",
+          "name": "Google Nest Cam (屋内、屋外対応 / バッテリー式)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 23900.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_indoor",
+          "type": "config",
+          "name": "Google Nest Cam Indoor（電源アダプター式 / 第 3 世代）",
+          "variants": [
+            {
+              "variant": null,
+              "price": 15800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_outdoor_wired_2nd_gen",
+          "type": "config",
+          "name": "Google Nest Cam Outdoor（電源アダプター式 / 第 2 世代）",
+          "variants": [
+            {
+              "variant": null,
+              "price": 23800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_doorbell_battery",
+          "type": "config",
+          "name": "Google Nest Doorbell (Battery Type)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 23900.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_hub_2nd_gen",
+          "type": "config",
+          "name": "Google Nest Hub（第 2 世代）",
+          "variants": [
+            {
+              "variant": null,
+              "price": 11000.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10",
+          "type": "config",
+          "name": "新しい Google Pixel 10 のご紹介",
+          "variants": [
+            {
+              "variant": "Google Pixel 10 Indigo 128 GB（SIM フリー）",
+              "price": 128900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Indigo 256 GB（SIM フリー）",
+              "price": 143900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Frost 128 GB（SIM フリー）",
+              "price": 128900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10 Frost 256 GB（SIM フリー）",
+              "price": 143900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Lemongrass 128 GB（SIM フリー）",
+              "price": 128900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Lemongrass 256 GB（SIM フリー）",
+              "price": 143900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Obsidian 128 GB（SIM フリー）",
+              "price": 128900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Obsidian 256 GB（SIM フリー）",
+              "price": 143900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro",
+          "type": "config",
+          "name": "新しい Google Tensor G5 チップを搭載した Google Pixel 10 Pro / Google Pixel 10 Pro XL を手に入れよう",
+          "variants": [
+            {
+              "variant": "Google Pixel 10 Pro Moonstone 256 GB（SIM フリー）",
+              "price": 174900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro Jade 256 GB（SIM フリー）",
+              "price": 174900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro Porcelain 256 GB（SIM フリー）",
+              "price": 174900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro Obsidian 256 GB（SIM フリー）",
+              "price": 174900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro Obsidian 512 GB（SIM フリー）",
+              "price": 194900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro XL Moonstone 256 GB（SIM フリー）",
+              "price": 192900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro XL Jade 256 GB（SIM フリー）",
+              "price": 192900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro XL Porcelain 256 GB（SIM フリー）",
+              "price": 192900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro XL Obsidian 256 GB（SIM フリー）",
+              "price": 192900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro XL Obsidian 512 GB（SIM フリー）",
+              "price": 212900.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro_fold",
+          "type": "config",
+          "name": "Google Pixel 10 Pro Fold は Moonstone と Jade の 2 色展開",
+          "variants": [
+            {
+              "variant": "Google Pixel 10 Pro Fold Moonstone 256 GB（SIM フリー）",
+              "price": 267500.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro Fold Moonstone 512 GB（SIM フリー）",
+              "price": 287500.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10 Pro Fold Jade 256 GB（SIM フリー）",
+              "price": 267500.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10a",
+          "type": "config",
+          "name": "Pixel 10a",
+          "variants": [
+            {
+              "variant": "Google Pixel 10a Obsidian 128 GB（SIM フリー）",
+              "price": 92800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10a Fog 128 GB（SIM フリー）",
+              "price": 92800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10a Lavender 128 GB（SIM フリー）",
+              "price": 92800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10a Berry 128 GB（SIM フリー）",
+              "price": 92800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 10a Obsidian 256 GB（SIM フリー）",
+              "price": 107800.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10a Fog 256 GB（SIM フリー）",
+              "price": 107800.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10a Lavender 256 GB（SIM フリー）",
+              "price": 107800.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Google Pixel 10a Isai Blue (日本限定モデル) 256GB",
+              "price": 107800.0,
+              "currency": "JPY",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11",
+          "type": "config",
+          "name": "Google Pixel 11",
+          "variants": [
+            {
+              "variant": "Google Pixel 11 Obsidian 256 GB（SIM フリー）",
+              "price": 136800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Obsidian 512 GB（SIM フリー）",
+              "price": 156800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Frost 256 GB（SIM フリー）",
+              "price": 136800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pistachio 256 GB（SIM フリー）",
+              "price": 136800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Hibiscus 256 GB（SIM フリー）",
+              "price": 136800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Frost 512 GB（SIM フリー）",
+              "price": 156800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pistachio 512 GB（SIM フリー）",
+              "price": 156800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Hibiscus 512 GB（SIM フリー）",
+              "price": 156800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro",
+          "type": "config",
+          "name": "Google Pixel 11 Pro",
+          "variants": [
+            {
+              "variant": "Google Pixel 11 Pro Canyon 256 GB （SIM フリー）",
+              "price": 174800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Fog 256 GB（SIM フリー）",
+              "price": 174800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Obsidian (matte) 256 GB（SIM フリー）",
+              "price": 174800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Olive 256 GB（SIM フリー）",
+              "price": 174800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Canyon 256 GB（SIM フリー）",
+              "price": 207800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Fog 256 GB（SIM フリー）",
+              "price": 207800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Obsidian (matte) 256 GB（SIM フリー）",
+              "price": 207800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Olive 256 GB（SIM フリー）",
+              "price": 207800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Canyon 512 GB（SIM フリー）",
+              "price": 194800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Fog 512 GB（SIM フリー）",
+              "price": 194800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Obsidian (matte) 512 GB（SIM フリー）",
+              "price": 194800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Olive 512 GB（SIM フリー）",
+              "price": 194800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Canyon 512 GB（SIM フリー）",
+              "price": 227800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 512GB（SIMフリー）",
+              "price": 227800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Obsidian (matte) 512 GB（SIM フリー）",
+              "price": 227800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Olive 512 GB（SIM フリー）",
+              "price": 227800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Obsidian (matte) 1 TB（SIM フリー）",
+              "price": 234800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro XL Obsidian (matte) 1 TB（SIM フリー）",
+              "price": 267800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro_fold",
+          "type": "config",
+          "name": "Google Pixel 11 Pro Fold",
+          "variants": [
+            {
+              "variant": "Google Pixel 11 Pro Fold Obsidian 256 GB（SIM フリー）",
+              "price": 279900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Fold Olive 256 GB（SIM フリー）",
+              "price": 279900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel 11 Pro Fold Obsidian 512 GB（SIM フリー）",
+              "price": 299900.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_2a",
+          "type": "config",
+          "name": "Google Pixel Buds 2a",
+          "variants": [
+            {
+              "variant": null,
+              "price": 23800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_pro_2",
+          "type": "config",
+          "name": "Google Pixel Buds Pro 2",
+          "variants": [
+            {
+              "variant": null,
+              "price": 36800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_3",
+          "type": "config",
+          "name": "Google Pixel Watch 5",
+          "variants": [
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Polished Silver アルミケース / Fog アクティブ バンド Wi-Fi",
+              "price": 62800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Matte Black アルミケース / Obsidian アクティブ バンド Wi-Fi",
+              "price": 62800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Champagne Gold アルミケース / Canyon アクティブ バンド Wi-Fi",
+              "price": 62800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Satin Pyrite アルミケース / Olive アクティブ バンド Wi-Fi",
+              "price": 62800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（45 mm）Polished Silver アルミケース / Fog アクティブ バンド Wi-Fi",
+              "price": 67800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（45 mm）Matte Black アルミケース / Obsidian アクティブ バンド Wi-Fi",
+              "price": 67800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（45 mm）Satin Pyrite アルミケース / Olive アクティブ バンド Wi-Fi",
+              "price": 67800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Polished Silver アルミケース / Fog アクティブ バンド LTE",
+              "price": 79800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Matte Black アルミケース / Obsidian アクティブ バンド LTE",
+              "price": 79800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Champagne Gold アルミケース / Canyon アクティブ バンド LTE",
+              "price": 79800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（41 mm）Satin Pyrite アルミケース / Olive アクティブ バンド LTE",
+              "price": 79800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（45 mm）Polished Silver アルミケース / Fog アクティブ バンド LTE",
+              "price": 84800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（45 mm）Matte Black アルミケース / Obsidian アクティブ バンド LTE",
+              "price": 84800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Google Pixel Watch 5（45 mm）Satin Pyrite アルミケース / Olive アクティブ バンド LTE",
+              "price": 84800.0,
+              "currency": "JPY",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_4",
+          "type": "config",
+          "name": "Google Pixel Watch 4",
+          "variants": [
+            {
+              "variant": null,
+              "price": 52800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_5",
+          "type": "config",
+          "name": "Google Pixel Watch 5",
+          "variants": [
+            {
+              "variant": null,
+              "price": 62800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            },
+            {
+              "variant": null,
+              "price": 62800.0,
+              "currency": "JPY",
+              "availability": "Unknown"
+            }
+          ]
+        }
+      ],
+      "competitors": [
+        {
+          "product": "Fitbit Charge 6 トラッカー",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Charge%206%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Inspire 3 トラッカー",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Inspire%203%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Sense 2 スマートウォッチ",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Sense%202%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Versa 4 スマートウォッチ",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Versa%204%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Air",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Air/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Air",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Edge",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Fitbit%20Edge/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Fitbit%20Edge",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Health アプリ",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Health%20%E3%82%A2%E3%83%97%E3%83%AA",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Health%20%E3%82%A2%E3%83%97%E3%83%AA/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Health%20%E3%82%A2%E3%83%97%E3%83%AA",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Health%20%E3%82%A2%E3%83%97%E3%83%AA",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Home スピーカー",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Home%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Hub Max",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Nest%20Hub%20Max",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Nest%20Hub%20Max/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Nest%20Hub%20Max",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Nest%20Hub%20Max",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "TV Streamer (4K)",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/TV%20Streamer%20%284K%29/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam (屋内、屋外対応 / バッテリー式)",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Nest%20Cam%20%28%E5%B1%8B%E5%86%85%E3%80%81%E5%B1%8B%E5%A4%96%E5%AF%BE%E5%BF%9C%20/%20%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%BC%8F%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam Indoor（電源アダプター式 / 第 3 世代）",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Nest%20Cam%20Indoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%203%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam Outdoor（電源アダプター式 / 第 2 世代）",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Nest%20Cam%20Outdoor%EF%BC%88%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%8F%20/%20%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Doorbell (Battery Type)",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Nest%20Doorbell%20%28Battery%20Type%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Nest%20Doorbell%20%28Battery%20Type%29/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Nest%20Doorbell%20%28Battery%20Type%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Nest%20Doorbell%20%28Battery%20Type%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Hub（第 2 世代）",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Nest%20Hub%EF%BC%88%E7%AC%AC%202%20%E4%B8%96%E4%BB%A3%EF%BC%89",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "新しい Google Pixel 10 のご紹介",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Pixel%2010%20%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "新しい Google Tensor G5 チップを搭載した Google Pixel 10 Pro / Google Pixel 10 Pro XL を手に入れよう",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=%E6%96%B0%E3%81%97%E3%81%84%20Google%20Tensor%20G5%20%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%20Google%20Pixel%2010%20Pro%20/%20Google%20Pixel%2010%20Pro%20XL%20%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro Fold は Moonstone と Jade の 2 色展開",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2010%20Pro%20Fold%20%E3%81%AF%20Moonstone%20%E3%81%A8%20Jade%20%E3%81%AE%202%20%E8%89%B2%E5%B1%95%E9%96%8B",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10a",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2010a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2010a/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%2010a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2010a",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro Fold",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro%20Fold/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds 2a",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Buds%202a/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds Pro 2",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Buds%20Pro%202/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 5",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Watch%205/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Watch%205",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 4",
+          "offers": [
+            {
+              "platform": "Amazon Japan",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Rakuten Ichiba",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%20Watch%204/",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yodobashi Camera",
+              "url": "https://www.yodobashi.com/?word=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Biccamera",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            }
+          ]
+        }
+      ]
+    },
+    "in": {
+      "market_name": "India",
+      "currency": "INR",
+      "google_store": [
+        {
+          "slug": "google_fitbit_air",
+          "type": "config",
+          "name": "Google Fitbit Air",
+          "variants": [
+            {
+              "variant": null,
+              "price": 13999.0,
+              "currency": "INR",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10",
+          "type": "config",
+          "name": "Discover the New Google Pixel 10",
+          "variants": [
+            {
+              "variant": "Pixel 10 Indigo 256GB (Unlocked)",
+              "price": 74999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Frost 256GB (Unlocked)",
+              "price": 74999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Lemongrass 256GB (Unlocked)",
+              "price": 74999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Obsidian 256GB (Unlocked)",
+              "price": 74999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro",
+          "type": "config",
+          "name": "Buy Pixel 10 Pro or Pixel 10 Pro XL with the new Google Tensor G5 chip",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro moonstone 256GB (unlocked)",
+              "price": 109999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro jade 256GB (Unlocked)",
+              "price": 109999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro porcelain 256GB (unlocked)",
+              "price": 109999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro obsidian 256GB (unlocked)",
+              "price": 109999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL moonstone 256GB (unlocked)",
+              "price": 124999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL jade 256GB (unlocked)",
+              "price": 124999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 256GB (Unlocked)",
+              "price": 124999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro_fold",
+          "type": "config",
+          "name": "Buy Google Pixel 10 Pro Fold in Moonstone or Jade",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro Fold moonstone 256GB (unlocked)",
+              "price": 172999.0,
+              "currency": "INR",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10a",
+          "type": "config",
+          "name": "Buy Google Pixel 10a, Built for Real Life",
+          "variants": [
+            {
+              "variant": "Pixel 10a Obsidian 256GB (Unlocked)",
+              "price": 52999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Fog 256GB (Unlocked)",
+              "price": 52999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Lavender 256GB (Unlocked)",
+              "price": 52999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Berry 256GB (Unlocked)",
+              "price": 52999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11",
+          "type": "config",
+          "name": "Google Pixel 11",
+          "variants": [
+            {
+              "variant": "Pixel 11 Obsidian 256GB (Unlocked)",
+              "price": 89999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Obsidian 512GB (Unlocked)",
+              "price": 94999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Frost 256GB (Unlocked)",
+              "price": 89999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pistachio 256GB (Unlocked)",
+              "price": 89999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Hibiscus 256GB (Unlocked)",
+              "price": 89999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Frost 512GB (Unlocked)",
+              "price": 94999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pistachio 512GB (Unlocked)",
+              "price": 94999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Hibiscus 512GB (Unlocked)",
+              "price": 94999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro",
+          "type": "config",
+          "name": "Google Pixel 11 Pro",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
+              "price": 119999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fog 256GB (Unlocked)",
+              "price": 119999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 256GB (Unlocked)",
+              "price": 119999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Olive 256GB (Unlocked)",
+              "price": 119999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Canyon 256GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 256GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 256GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL olive 256GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro canyon 512GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fog 512GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 512GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Olive 512GB (Unlocked)",
+              "price": 134999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 512GB (Unlocked)",
+              "price": 149999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 512GB (Unlocked)",
+              "price": 149999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro_fold",
+          "type": "config",
+          "name": "Google Pixel 11 Pro Fold",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Fold Olive 512GB (Unlocked)",
+              "price": 186999.0,
+              "currency": "INR",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_2a",
+          "type": "config",
+          "name": "Pixel Buds 2a",
+          "variants": [
+            {
+              "variant": null,
+              "price": 12999.0,
+              "currency": "INR",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_pro_2",
+          "type": "config",
+          "name": "Pixel Buds Pro 2",
+          "variants": [
+            {
+              "variant": null,
+              "price": 22900.0,
+              "currency": "INR",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_3",
+          "type": "config",
+          "name": "Pixel Watch 5",
+          "variants": [
+            {
+              "variant": null,
+              "price": 42900.0,
+              "currency": "INR",
+              "availability": "Unknown"
+            },
+            {
+              "variant": null,
+              "price": 42900.0,
+              "currency": "INR",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_4",
+          "type": "config",
+          "name": "Google Pixel Watch 4",
+          "variants": [
+            {
+              "variant": null,
+              "price": 39900.0,
+              "currency": "INR",
+              "availability": "Unknown"
+            }
+          ]
+        }
+      ],
+      "competitors": [
+        {
+          "product": "Fitbit Air",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Fitbit%20Air%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Fitbit%20Air",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Discover the New Google Pixel 10",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Discover%20the%20New%20Google%20Pixel%2010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Discover%20the%20New%20Google%20Pixel%2010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Discover%20the%20New%20Google%20Pixel%2010%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Discover%20the%20New%20Google%20Pixel%2010",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro or Pixel 10 Pro XL",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro Fold",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%2010%20Pro%20Fold%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10a, Built for Real Life",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%2010a%2C%20Built%20for%20Real%20Life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%2010a%2C%20Built%20for%20Real%20Life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%2010a%2C%20Built%20for%20Real%20Life%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%2010a%2C%20Built%20for%20Real%20Life",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%2011%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%2011",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%2011%20Pro%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro Fold",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%2011%20Pro%20Fold%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds 2a",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%20Buds%202a%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds Pro 2",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%20Buds%20Pro%202%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 5",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%20Watch%205%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%20Watch%205",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 4",
+          "offers": [
+            {
+              "platform": "Amazon India",
+              "url": "https://www.amazon.in/s?k=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Flipkart",
+              "url": "https://www.flipkart.com/search?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Croma",
+              "url": "https://www.croma.com/searchB?q=Pixel%20Watch%204%3Arelevance",
+              "method": "search_link"
+            },
+            {
+              "platform": "Reliance Digital",
+              "url": "https://www.reliancedigital.in/search?q=Pixel%20Watch%204",
+              "method": "search_link"
+            }
+          ]
+        }
+      ]
+    },
+    "au": {
+      "market_name": "Australia",
+      "currency": "AUD",
+      "google_store": [
+        {
+          "slug": "fitbit_charge_6",
+          "type": "config",
+          "name": "Fitbit Charge 6 Tracker",
+          "variants": [
+            {
+              "variant": null,
+              "price": 259.95,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_inspire_3",
+          "type": "config",
+          "name": "Buy Fitbit Inspire 3 health and fitness tracker",
+          "variants": [
+            {
+              "variant": "Fitbit Inspire 3 (Midnight Zen  /  Black)",
+              "price": 179.95,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Fitbit Inspire 3 (Lilac Bliss  /  Black)",
+              "price": 179.95,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Fitbit Inspire 3 (Morning Glow  /  Black)",
+              "price": 179.95,
+              "currency": "AUD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_sense_2",
+          "type": "config",
+          "name": "Fitbit Sense 2 Smartwatch",
+          "variants": [
+            {
+              "variant": null,
+              "price": 449.95,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_versa_4",
+          "type": "config",
+          "name": "Fitbit Versa 4 Smartwatch",
+          "variants": [
+            {
+              "variant": null,
+              "price": 379.95,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_fitbit_air",
+          "type": "config",
+          "name": "Google Fitbit Air",
+          "variants": [
+            {
+              "variant": null,
+              "price": 199.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_fitbit_edge",
+          "type": "config",
+          "name": "Google Fitbit Edge",
+          "variants": [
+            {
+              "variant": null,
+              "price": 269.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_health_premium",
+          "type": "config",
+          "name": "Google Health App",
+          "variants": [
+            {
+              "variant": null,
+              "price": 14.99,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_home_speaker",
+          "type": "config",
+          "name": "Google Home Speaker",
+          "variants": [
+            {
+              "variant": null,
+              "price": 199.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_nest_hub_max",
+          "type": "config",
+          "name": "Nest Hub Max",
+          "variants": [
+            {
+              "variant": null,
+              "price": 349.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_tv_streamer",
+          "type": "config",
+          "name": "Google TV Streamer (4K)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 159.99,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_battery",
+          "type": "config",
+          "name": "Nest Cam (outdoor or indoor, battery)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 329.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_floodlight",
+          "type": "config",
+          "name": "Nest Cam with floodlight (wired)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 549.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_indoor",
+          "type": "config",
+          "name": "Nest Cam Indoor (wired, 3rd gen)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 189.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_cam_outdoor_wired_2nd_gen",
+          "type": "config",
+          "name": "Nest Cam Outdoor (wired, 2nd gen)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 239.99,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_doorbell_battery",
+          "type": "config",
+          "name": "Nest Doorbell (battery)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 329.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_hub_2nd_gen",
+          "type": "config",
+          "name": "Nest Hub (2nd gen)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 149.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_wifi_pro",
+          "type": "config",
+          "name": "Nest Wifi Pro",
+          "variants": [
+            {
+              "variant": null,
+              "price": 349.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10",
+          "type": "config",
+          "name": "Discover the new Google Pixel 10",
+          "variants": [
+            {
+              "variant": "Pixel 10 Indigo 128 GB (unlocked)",
+              "price": 1349.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Indigo 256 GB (unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Frost 128 GB (unlocked)",
+              "price": 1349.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Frost 256 GB (unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Lemongrass 128 GB (unlocked)",
+              "price": 1349.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Lemongrass 256 GB (unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Obsidian 128 GB (unlocked)",
+              "price": 1349.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Obsidian 256 GB (unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro",
+          "type": "config",
+          "name": "Buy Pixel 10 Pro or Pixel 10 Pro XL with the new Google Tensor G5 chip ",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro Moonstone 128 GB (unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Moonstone 256 GB (unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Moonstone 512 GB (unlocked)",
+              "price": 2049.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Jade 256 GB (unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Porcelain 128 GB (unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Porcelain 256 GB (unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 128 GB (unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 1 TB (unlocked)",
+              "price": 2399.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 256 GB (unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 512 GB (unlocked)",
+              "price": 2049.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Moonstone 256 GB (unlocked)",
+              "price": 1999.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Moonstone 512 GB (unlocked)",
+              "price": 2199.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Jade 256 GB (unlocked)",
+              "price": 1999.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Porcelain 256 GB (unlocked)",
+              "price": 1999.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 256 GB (unlocked)",
+              "price": 1999.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 512 GB (unlocked)",
+              "price": 2199.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 1 TB (unlocked)",
+              "price": 2549.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro_fold",
+          "type": "config",
+          "name": "Buy Google Pixel 10 Pro Fold in Moonstone or Jade",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro Fold Moonstone 256 GB (unlocked)",
+              "price": 2699.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Fold Moonstone 512 GB (unlocked)",
+              "price": 2899.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Fold Moonstone 1 TB (unlocked)",
+              "price": 3289.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Fold Jade 256 GB (unlocked)",
+              "price": 2699.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Fold Jade 512 GB (unlocked)",
+              "price": 2899.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10a",
+          "type": "config",
+          "name": "Buy Google Pixel 10a, built for real life",
+          "variants": [
+            {
+              "variant": "Pixel 10a Obsidian 128 GB (unlocked)",
+              "price": 949.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Fog 128 GB (unlocked)",
+              "price": 949.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Lavender 128 GB (unlocked)",
+              "price": 949.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Obsidian 256 GB (unlocked)",
+              "price": 1099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Lavender 256 GB (unlocked)",
+              "price": 1099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Berry 256 GB (unlocked)",
+              "price": 1099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11",
+          "type": "config",
+          "name": "Google Pixel 11",
+          "variants": [
+            {
+              "variant": "Pixel 11 Obsidian 256GB (Unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Obsidian 512 GB (unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Frost 256GB (Unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pistachio 256 GB (unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Hibiscus 256 GB (unlocked)",
+              "price": 1499.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Frost 512 GB (unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pistachio 512GB (Unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Hibiscus 512GB (Unlocked)",
+              "price": 1699.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro",
+          "type": "config",
+          "name": "Google Pixel 11 Pro",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fog 256GB (Unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 256GB (Unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Olive 256GB (Unlocked)",
+              "price": 1849.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Canyon 256GB (Unlocked)",
+              "price": 2099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 256GB (Unlocked)",
+              "price": 2099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 256GB (Unlocked)",
+              "price": 2099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Olive 256 GB (unlocked)",
+              "price": 2099.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Canyon 512 GB (unlocked)",
+              "price": 2049.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fog 512GB (Unlocked)",
+              "price": 2049.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 512GB (Unlocked)",
+              "price": 2049.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Olive 512GB (Unlocked)",
+              "price": 2049.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Canyon 512GB (Unlocked)",
+              "price": 2299.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 512GB (Unlocked)",
+              "price": 2299.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 512GB (Unlocked)",
+              "price": 2299.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Olive 512GB (Unlocked)",
+              "price": 2299.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 1TB (Unlocked)",
+              "price": 2399.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 1TB (Unlocked)",
+              "price": 2649.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro_fold",
+          "type": "config",
+          "name": "Google Pixel 11 Pro Fold",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Fold Obsidian 256 GB (unlocked)",
+              "price": 2799.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold Olive 256 GB (unlocked)",
+              "price": 2799.0,
+              "currency": "AUD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold Obsidian 512 GB (unlocked)",
+              "price": 2999.0,
+              "currency": "AUD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_2a",
+          "type": "config",
+          "name": "Pixel Buds 2a",
+          "variants": [
+            {
+              "variant": null,
+              "price": 239.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_pro_2",
+          "type": "config",
+          "name": "Pixel Buds Pro 2",
+          "variants": [
+            {
+              "variant": null,
+              "price": 379.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_3",
+          "type": "config",
+          "name": "Pixel Watch 5",
+          "variants": [
+            {
+              "variant": null,
+              "price": 649.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            },
+            {
+              "variant": null,
+              "price": 649.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_4",
+          "type": "config",
+          "name": "Google Pixel Watch 4",
+          "variants": [
+            {
+              "variant": null,
+              "price": 579.0,
+              "currency": "AUD",
+              "availability": "Unknown"
+            }
+          ]
+        }
+      ],
+      "competitors": [
+        {
+          "product": "Fitbit Charge 6 Tracker",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Inspire 3 health and fitness tracker",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Inspire%C2%A03%20health%20and%20fitness%20tracker",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Sense 2 Smartwatch",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Versa 4 Smartwatch",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Air",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Air",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Edge",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Fitbit%20Edge",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Health App",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Health%20App",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Health%20App",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Health%20App",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Health%20App",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Home Speaker",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Home%20Speaker",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Home%20Speaker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Home%20Speaker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Home%20Speaker",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Hub Max",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Hub%20Max",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Hub%20Max",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Hub%20Max",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Hub%20Max",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "TV Streamer (4K)",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam (outdoor or indoor, battery)",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam%20%28outdoor%20or%20indoor%2C%20battery%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Cam",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Cam",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam Indoor (wired, 3rd gen)",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam%20Indoor%20%28wired%2C%203rd%20gen%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Cam Outdoor (wired, 2nd gen)",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Cam%20Outdoor%20%28wired%2C%202nd%20gen%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Doorbell (battery)",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Doorbell%20%28battery%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Doorbell%20%28battery%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Doorbell%20%28battery%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Doorbell%20%28battery%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Hub (2nd gen)",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Wifi Pro",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Nest%20Wifi%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Nest%20Wifi%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Nest%20Wifi%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Nest%20Wifi%20Pro",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%C2%A010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro or Pixel 10 Pro XL",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010%C2%A0Pro%20or%20Pixel%C2%A010%C2%A0Pro%C2%A0XL",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro Fold",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010%C2%A0Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010%C2%A0Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%C2%A010%C2%A0Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010%C2%A0Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10a, built for real life",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro Fold",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds 2a",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds Pro 2",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 5",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Watch%205",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 4",
+          "offers": [
+            {
+              "platform": "Amazon Australia",
+              "url": "https://www.amazon.com.au/s?k=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "JB Hi-Fi",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Officeworks",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Harvey Norman",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            }
+          ]
+        }
+      ]
+    },
+    "sg": {
+      "market_name": "Singapore",
+      "currency": "SGD",
+      "google_store": [
+        {
+          "slug": "fitbit_charge_6",
+          "type": "config",
+          "name": "Fitbit Charge 6 Tracker",
+          "variants": [
+            {
+              "variant": null,
+              "price": 229.95,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_inspire_3",
+          "type": "config",
+          "name": "Fitbit Inspire 3 tracker",
+          "variants": [
+            {
+              "variant": null,
+              "price": 148.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_sense_2",
+          "type": "config",
+          "name": "Fitbit Sense 2 Smartwatch",
+          "variants": [
+            {
+              "variant": null,
+              "price": 428.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_versa_4",
+          "type": "config",
+          "name": "Fitbit Versa 4 Smartwatch",
+          "variants": [
+            {
+              "variant": null,
+              "price": 358.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_fitbit_air",
+          "type": "config",
+          "name": "Google Fitbit Air",
+          "variants": [
+            {
+              "variant": null,
+              "price": 189.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_fitbit_edge",
+          "type": "config",
+          "name": "Google Fitbit Edge",
+          "variants": [
+            {
+              "variant": null,
+              "price": 249.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_hub_2nd_gen",
+          "type": "config",
+          "name": "Nest Hub (2nd gen)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 139.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10",
+          "type": "config",
+          "name": "Discover the new Google Pixel 10",
+          "variants": [
+            {
+              "variant": "Pixel 10 Indigo 128 GB (unlocked)",
+              "price": 1199.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Indigo 256 GB (unlocked)",
+              "price": 1339.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Frost 128 GB (unlocked)",
+              "price": 1199.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Frost 256 GB (unlocked)",
+              "price": 1339.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Lemongrass 128 GB (unlocked)",
+              "price": 1199.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Lemongrass 256 GB (unlocked)",
+              "price": 1339.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Obsidian 128 GB (unlocked)",
+              "price": 1199.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Obsidian 256 GB (unlocked)",
+              "price": 1339.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro",
+          "type": "config",
+          "name": "Buy Pixel 10 Pro or Pixel 10 Pro XL with the new Google Tensor G5 chip",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro Moonstone 128 GB (unlocked)",
+              "price": 1459.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Moonstone 256 GB (unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Jade 256 GB (unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Porcelain 128 GB (unlocked)",
+              "price": 1459.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Porcelain 256 GB (unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 128 GB (unlocked)",
+              "price": 1459.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 1 TB (unlocked)",
+              "price": 2099.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 256 GB (unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Obsidian 512 GB (unlocked)",
+              "price": 1779.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Moonstone 256 GB (unlocked)",
+              "price": 1739.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Moonstone 512 GB (unlocked)",
+              "price": 1919.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Jade 256 GB (unlocked)",
+              "price": 1739.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Porcelain 256 GB (unlocked)",
+              "price": 1739.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 256 GB (unlocked)",
+              "price": 1739.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 512 GB (unlocked)",
+              "price": 1919.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL Obsidian 1 TB (unlocked)",
+              "price": 2239.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10a",
+          "type": "config",
+          "name": "Buy Google Pixel 10a, built for real life",
+          "variants": [
+            {
+              "variant": "Pixel 10a Obsidian 128 GB (unlocked)",
+              "price": 899.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Fog 128 GB (unlocked)",
+              "price": 899.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Lavender 128 GB (unlocked)",
+              "price": 899.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Obsidian 256 GB (unlocked)",
+              "price": 1039.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Fog 256 GB (unlocked)",
+              "price": 1039.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Lavender 256 GB (unlocked)",
+              "price": 1039.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a Berry 256 GB (unlocked)",
+              "price": 1039.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11",
+          "type": "config",
+          "name": "Google Pixel 11",
+          "variants": [
+            {
+              "variant": "Pixel 11 Obsidian 256GB (Unlocked)",
+              "price": 1299.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Obsidian 512 GB (unlocked)",
+              "price": 1479.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Frost 256GB (Unlocked)",
+              "price": 1299.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pistachio 256 GB (unlocked)",
+              "price": 1299.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Hibiscus 256 GB (unlocked)",
+              "price": 1299.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Frost 512 GB (unlocked)",
+              "price": 1479.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pistachio 512GB (Unlocked)",
+              "price": 1479.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Hibiscus 512GB (Unlocked)",
+              "price": 1479.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro",
+          "type": "config",
+          "name": "Google Pixel 11 Pro",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fog 256GB (Unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 256GB (Unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Olive 256GB (Unlocked)",
+              "price": 1599.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Canyon 256GB (Unlocked)",
+              "price": 1819.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 256GB (Unlocked)",
+              "price": 1819.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 256GB (Unlocked)",
+              "price": 1819.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Olive 256 GB (unlocked)",
+              "price": 1819.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Canyon 512 GB (unlocked)",
+              "price": 1779.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fog 512GB (Unlocked)",
+              "price": 1779.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 512GB (Unlocked)",
+              "price": 1779.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Olive 512GB (Unlocked)",
+              "price": 1779.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Canyon 512GB (Unlocked)",
+              "price": 1999.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Fog 512GB (Unlocked)",
+              "price": 1999.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 512GB (Unlocked)",
+              "price": 1999.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Olive 512GB (Unlocked)",
+              "price": 1999.0,
+              "currency": "SGD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Obsidian (matte) 1TB (Unlocked)",
+              "price": 2099.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL Obsidian (matte) 1TB (Unlocked)",
+              "price": 2319.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro_fold",
+          "type": "config",
+          "name": "Google Pixel 11 Pro Fold",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Fold Obsidian 256 GB (unlocked)",
+              "price": 2499.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold Olive 256 GB (unlocked)",
+              "price": 2499.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold Obsidian 512 GB (unlocked)",
+              "price": 2679.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold Obsidian 1 TB (unlocked)",
+              "price": 2999.0,
+              "currency": "SGD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_2a",
+          "type": "config",
+          "name": "Pixel Buds 2a",
+          "variants": [
+            {
+              "variant": null,
+              "price": 199.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_pro_2",
+          "type": "config",
+          "name": "Pixel Buds Pro 2",
+          "variants": [
+            {
+              "variant": null,
+              "price": 349.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_3",
+          "type": "config",
+          "name": "Google Pixel Watch 5",
+          "variants": [
+            {
+              "variant": null,
+              "price": 569.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_4",
+          "type": "config",
+          "name": "Pixel Watch 4",
+          "variants": [
+            {
+              "variant": null,
+              "price": 529.0,
+              "currency": "SGD",
+              "availability": "Unknown"
+            }
+          ]
+        }
+      ],
+      "competitors": [
+        {
+          "product": "Fitbit Charge 6 Tracker",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Fitbit%20Charge%C2%A06%20Tracker",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Inspire 3 tracker",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Fitbit%20Inspire%C2%A03%20tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Fitbit%20Inspire%C2%A03%20tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Fitbit%20Inspire%C2%A03%20tracker",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Fitbit%20Inspire%C2%A03%20tracker",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Sense 2 Smartwatch",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Fitbit%20Sense%C2%A02%20Smartwatch",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Versa 4 Smartwatch",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Fitbit%20Versa%204%20Smartwatch",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Air",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Fitbit%20Air",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Fitbit%20Air",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Edge",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Fitbit%20Edge",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Fitbit%20Edge",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Hub (2nd gen)",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Nest%20Hub%20%282nd%20gen%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%C2%A010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%C2%A010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%C2%A010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%C2%A010",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro or Pixel 10 Pro XL",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%2010%20Pro%20or%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10a, built for real life",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%C2%A010a%2C%20built%20for%20real%20life",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%2011",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro Fold",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds 2a",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds Pro 2",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%20Buds%C2%A0Pro%C2%A02",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 5",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%20Watch%205",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 4",
+          "offers": [
+            {
+              "platform": "Shopee Singapore",
+              "url": "https://shopee.sg/search?keyword=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Lazada Singapore",
+              "url": "https://www.lazada.sg/catalog/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Challenger",
+              "url": "https://www.challenger.sg/catalogsearch/result/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Courts",
+              "url": "https://www.courts.com.sg/catalogsearch/result/?q=Pixel%20Watch%204",
+              "method": "search_link"
+            }
+          ]
+        }
+      ]
+    },
+    "tw": {
+      "market_name": "Taiwan",
+      "currency": "TWD",
+      "google_store": [
+        {
+          "slug": "fitbit_charge_6",
+          "type": "config",
+          "name": "Fitbit Charge 6 智慧手環",
+          "variants": [
+            {
+              "variant": null,
+              "price": 5200.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_inspire_3",
+          "type": "config",
+          "name": "Fitbit Inspire 3 智慧手環",
+          "variants": [
+            {
+              "variant": null,
+              "price": 3490.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_sense_2",
+          "type": "config",
+          "name": "Fitbit Sense 2 智慧手錶",
+          "variants": [
+            {
+              "variant": null,
+              "price": 7490.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "fitbit_versa_4",
+          "type": "config",
+          "name": "Fitbit Versa 4 智慧手錶",
+          "variants": [
+            {
+              "variant": null,
+              "price": 6290.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "google_tv_streamer",
+          "type": "config",
+          "name": "Google TV Streamer (4K)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 3250.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "nest_hub_2nd_gen",
+          "type": "config",
+          "name": "Nest Hub (第 2 代)",
+          "variants": [
+            {
+              "variant": null,
+              "price": 3180.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10",
+          "type": "config",
+          "name": "認識全新 Google Pixel 10",
+          "variants": [
+            {
+              "variant": "Pixel 10 靛藍色 128 GB (無鎖版)",
+              "price": 26490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 靛藍色 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 冰霜紫 128 GB (無鎖版)",
+              "price": 26490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 冰霜紫 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 香茅綠 128 GB (無鎖版)",
+              "price": 26490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 香茅綠 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 曜石黑 128 GB (無鎖版)",
+              "price": 26490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 曜石黑 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro",
+          "type": "config",
+          "name": "購買搭載全新 Google Tensor G5 晶片的 Pixel 10 Pro 或 Pixel 10 Pro XL",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro 月岩灰 128 GB (無鎖版)",
+              "price": 33490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 月岩灰 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 月岩灰 512 GB (無鎖版)",
+              "price": 40990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 綠玉色 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 陶瓷米 128 GB (無鎖版)",
+              "price": 33490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 陶瓷米 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 曜石黑 128 GB (無鎖版)",
+              "price": 33490.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 曜石黑 1 TB (無鎖版)",
+              "price": 48990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 曜石黑 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro 曜石黑 512 GB (無鎖版)",
+              "price": 40990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 月岩灰 256 GB (無鎖版)",
+              "price": 39990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 月岩灰 512 GB (無鎖版)",
+              "price": 43990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 綠玉色 256 GB (無鎖版)",
+              "price": 39990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 陶瓷米 256 GB (無鎖版)",
+              "price": 39990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 曜石黑 256 GB (無鎖版)",
+              "price": 39990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 曜石黑 512 GB (無鎖版)",
+              "price": 43990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro XL 曜石黑 1 TB (無鎖版)",
+              "price": 51990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10_pro_fold",
+          "type": "config",
+          "name": "購買月岩灰或綠玉色 Google Pixel 10 Pro Fold",
+          "variants": [
+            {
+              "variant": "Pixel 10 Pro Fold 月岩灰 256 GB (無鎖版)",
+              "price": 56990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Fold 月岩灰 512 GB (無鎖版)",
+              "price": 60990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 10 Pro Fold 月岩灰 1 TB (無鎖版)",
+              "price": 68990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_10a",
+          "type": "config",
+          "name": "購買 Google Pixel 10a，日常所需，一機到位",
+          "variants": [
+            {
+              "variant": "Pixel 10a 曜石黑 128 GB (無鎖版)",
+              "price": 16490.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a 迷霧灰 128 GB (無鎖版)",
+              "price": 16490.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a 薰衣草紫 128 GB (無鎖版)",
+              "price": 16490.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a 曜石黑 256 GB (無鎖版)",
+              "price": 19990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a 迷霧灰 256 GB (無鎖版)",
+              "price": 19990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a 薰衣草紫 256 GB (無鎖版)",
+              "price": 19990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 10a 草莓粉 256 GB (無鎖版)",
+              "price": 19990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11",
+          "type": "config",
+          "name": "Google Pixel 11",
+          "variants": [
+            {
+              "variant": "Pixel 11 曜石黑 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 曜石黑 512 GB (無鎖版)",
+              "price": 33990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 冰霜紫 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 開心果綠 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 木槿桃 256 GB (無鎖版)",
+              "price": 29990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 冰霜紫 512 GB (無鎖版)",
+              "price": 33990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 開心果綠 512 GB (無鎖版)",
+              "price": 33990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 木槿桃 512 GB (無鎖版)",
+              "price": 33990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro",
+          "type": "config",
+          "name": "Google Pixel 11 Pro",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro 砂岩粉 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 迷霧灰 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 曜石黑 (霧面) 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 橄欖綠 256 GB (無鎖版)",
+              "price": 36990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 砂岩粉 256 GB (無鎖版)",
+              "price": 42990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 迷霧灰 256 GB (無鎖版)",
+              "price": 42990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 曜石黑 (霧面) 256 GB (無鎖版)",
+              "price": 42990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 橄欖綠 256 GB (無鎖版)",
+              "price": 42990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 砂岩粉 512 GB (無鎖版)",
+              "price": 40990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 迷霧灰 512 GB (無鎖版)",
+              "price": 40990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 曜石黑 512 GB (無鎖版)",
+              "price": 40990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 橄欖綠 512 GB (無鎖版)",
+              "price": 40990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 砂岩粉 512 GB (無鎖版)",
+              "price": 46990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 迷霧灰 512 GB (無鎖版)",
+              "price": 46990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 曜石黑 (霧面) 512 GB (無鎖版)",
+              "price": 46990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 橄欖綠 512 GB (無鎖版)",
+              "price": 46990.0,
+              "currency": "TWD",
+              "availability": "OutOfStock"
+            },
+            {
+              "variant": "Pixel 11 Pro 曜石黑 (霧面) 1 TB (無鎖版)",
+              "price": 48990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro XL 曜石黑 (霧面) 1 TB (無鎖版)",
+              "price": 54990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_11_pro_fold",
+          "type": "config",
+          "name": "Google Pixel 11 Pro Fold",
+          "variants": [
+            {
+              "variant": "Pixel 11 Pro Fold 曜石黑 256 GB (無鎖版)",
+              "price": 60990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold 橄欖綠 256 GB (無鎖版)",
+              "price": 60990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold 曜石黑 512 GB (無鎖版)",
+              "price": 64990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            },
+            {
+              "variant": "Pixel 11 Pro Fold 曜石黑 1 TB (無鎖版)",
+              "price": 72990.0,
+              "currency": "TWD",
+              "availability": "InStock"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_2a",
+          "type": "config",
+          "name": "Pixel Buds 2a",
+          "variants": [
+            {
+              "variant": null,
+              "price": 4499.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_buds_pro_2",
+          "type": "config",
+          "name": "Pixel Buds Pro 2",
+          "variants": [
+            {
+              "variant": null,
+              "price": 7490.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_3",
+          "type": "config",
+          "name": "Google Pixel Watch 5",
+          "variants": [
+            {
+              "variant": null,
+              "price": 12990.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            },
+            {
+              "variant": null,
+              "price": 12990.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        },
+        {
+          "slug": "pixel_watch_4",
+          "type": "config",
+          "name": "Google Pixel Watch 4",
+          "variants": [
+            {
+              "variant": null,
+              "price": 12490.0,
+              "currency": "TWD",
+              "availability": "Unknown"
+            }
+          ]
+        }
+      ],
+      "competitors": [
+        {
+          "product": "Fitbit Charge 6 智慧手環",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Fitbit%20Charge%206%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Charge%206%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Charge%206%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Inspire 3 智慧手環",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Fitbit%20Inspire%203%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Inspire%203%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Inspire%203%20%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Sense 2 智慧手錶",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Fitbit%20Sense%202%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Sense%202%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Sense%202%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Fitbit Versa 4 智慧手錶",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Fitbit%20Versa%204%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Fitbit%20Versa%204%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Fitbit%20Versa%204%20%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "TV Streamer (4K)",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=TV%20Streamer%20%284K%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Nest Hub (第 2 代)",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Nest%20Hub%20%28%E7%AC%AC%202%20%E4%BB%A3%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Nest%20Hub%20%28%E7%AC%AC%202%20%E4%BB%A3%29",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Nest%20Hub%20%28%E7%AC%AC%202%20%E4%BB%A3%29",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10",
+          "offers": [
+            {
+              "platform": "PChome 24h",
+              "matched_title": "【B+福利品】Pixel 10 PRO XL 5G (16G/256G)",
+              "price": 26290,
+              "original_price": 26290,
+              "url": "https://24h.pchome.com.tw/prod/DYAX06-A900KIQER",
+              "method": "scraped"
+            },
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2010",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2010",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 10 Pro 或 Pixel 10 Pro XL",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2010%20Pro%20%E6%88%96%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2010%20Pro%20%E6%88%96%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2010%20Pro%20%E6%88%96%20Pixel%2010%20Pro%20XL",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "購買月岩灰或綠玉色 Google Pixel 10 Pro Fold",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E8%B3%BC%E8%B2%B7%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=%E8%B3%BC%E8%B2%B7%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=%E8%B3%BC%E8%B2%B7%E6%9C%88%E5%B2%A9%E7%81%B0%E6%88%96%E7%B6%A0%E7%8E%89%E8%89%B2%20Google%20Pixel%2010%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "購買 Google Pixel 10a，日常所需，一機到位",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E8%B3%BC%E8%B2%B7%20Google%20Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=%E8%B3%BC%E8%B2%B7%20Google%20Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=%E8%B3%BC%E8%B2%B7%20Google%20Pixel%2010a%EF%BC%8C%E6%97%A5%E5%B8%B8%E6%89%80%E9%9C%80%EF%BC%8C%E4%B8%80%E6%A9%9F%E5%88%B0%E4%BD%8D",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11",
+          "offers": [
+            {
+              "platform": "PChome 24h",
+              "matched_title": "Pixel 11 12G/256G",
+              "price": 29990,
+              "original_price": 29990,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIY0",
+              "method": "scraped"
+            },
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2011",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2011",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2011%20Pro",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2011%20Pro",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel 11 Pro Fold",
+          "offers": [
+            {
+              "platform": "PChome 24h",
+              "matched_title": "Pixel 11 Pro Fold 16G/256G 橄欖綠",
+              "price": 60990,
+              "original_price": 60990,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3Y-1900KCIMA",
+              "method": "scraped"
+            },
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%2011%20Pro%20Fold",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds 2a",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Buds%202a",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Buds%202a",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Buds Pro 2",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Buds%20Pro%202",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 5",
+          "offers": [
+            {
+              "platform": "PChome 24h",
+              "matched_title": "Google Pixel Watch 5 41mm BT版",
+              "price": 12990,
+              "original_price": 12990,
+              "url": "https://24h.pchome.com.tw/prod/DYAT40-1900KCS4J",
+              "method": "scraped"
+            },
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Watch%205",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Watch%205",
+              "method": "search_link"
+            }
+          ]
+        },
+        {
+          "product": "Pixel Watch 4",
+          "offers": [
+            {
+              "platform": "momo購物網",
+              "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Yahoo奇摩購物中心",
+              "url": "https://tw.buy.yahoo.com/search/product?p=Pixel%20Watch%204",
+              "method": "search_link"
+            },
+            {
+              "platform": "Pchome 商店街",
+              "url": "https://shopping.pchome.com.tw/search/v1.3/all?q=Pixel%20Watch%204",
+              "method": "search_link"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Google Device Price Tracker</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="topbar">
+    <h1>Google Device Price Tracker</h1>
+    <div class="sub">Pixel, Pixel Watch, Pixel Buds, Fitbit &amp; Nest/Home prices across 5 markets — updated daily. Last refresh: <span id="generated-at">loading…</span></div>
+  </div>
+  <nav class="market-nav" id="market-nav"></nav>
+  <main id="app-main"></main>
+
+  <div style="max-width:1200px;margin:0 auto;padding:0 24px 60px;">
+    <p class="footer-note">
+      Google Store prices are scraped directly from each market's store.google.com storefront.
+      Competitor prices marked with a value are scraped live from that platform; entries marked
+      "Check price →" couldn't be scraped automatically (most retail sites block or JS-render
+      their pricing) and link straight to a search for that product instead of a guessed number.
+      Discount/markup badges compare a competitor's scraped price against the Google Store "from" price
+      for the same product family, not necessarily the identical colour/storage SKU.
+      See the <a href="https://github.com" target="_blank" rel="noopener">project README</a> for scraper details and limitations.
+    </p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
