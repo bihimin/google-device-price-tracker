@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:08:04.806995+00:00",
+  "generated_at": "2026-10-26T22:16:03.225497+00:00",
   "markets": {
     "jp": {
       "market_name": "Japan",
@@ -245,7 +245,7 @@
               "variant": "Google Pixel 10 Obsidian 128 GB（SIM フリー）",
               "price": 128900.0,
               "currency": "JPY",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Google Pixel 10 Obsidian 256 GB（SIM フリー）",
@@ -306,13 +306,13 @@
               "variant": "Google Pixel 10 Pro XL Porcelain 256 GB（SIM フリー）",
               "price": 192900.0,
               "currency": "JPY",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             },
             {
               "variant": "Google Pixel 10 Pro XL Obsidian 256 GB（SIM フリー）",
               "price": 192900.0,
               "currency": "JPY",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             },
             {
               "variant": "Google Pixel 10 Pro XL Obsidian 512 GB（SIM フリー）",
@@ -2796,7 +2796,7 @@
               "variant": "Pixel 11 Pro XL Obsidian (matte) 1TB (Unlocked)",
               "price": 2649.0,
               "currency": "AUD",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             }
           ]
         },
@@ -4183,7 +4183,7 @@
               "variant": "Pixel 11 Pro XL Olive 512GB (Unlocked)",
               "price": 1999.0,
               "currency": "SGD",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Obsidian (matte) 1TB (Unlocked)",
@@ -4289,10 +4289,8 @@
           "offers": [
             {
               "platform": "Amazon Singapore",
-              "matched_title": "Google Fitbit Charge 6 Activity Tracker with 6-months Premium Membership Included, 7 days battery life and Google Wallet and Google Maps",
-              "price": 194.46,
               "url": "https://www.amazon.sg/s?k=Fitbit%20Charge%C2%A06%20Tracker",
-              "method": "scraped"
+              "method": "search_link"
             },
             {
               "platform": "Shopee Singapore",
@@ -5272,7 +5270,7 @@
               "variant": "Pixel 11 Pro XL 橄欖綠 512 GB (無鎖版)",
               "price": 46990.0,
               "currency": "TWD",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 曜石黑 (霧面) 1 TB (無鎖版)",
@@ -5545,7 +5543,7 @@
               "matched_title": "Pixel 11 12G/256G",
               "price": 29990,
               "original_price": 29990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIWQ",
+              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIXN",
               "method": "scraped"
             },
             {
