@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:16:03.225497+00:00",
+  "generated_at": "2026-11-03T00:28:39.641102+00:00",
   "markets": {
     "jp": {
       "market_name": "Japan",
@@ -129,7 +129,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 16000.0,
+              "price": 24500.0,
               "currency": "JPY",
               "availability": "Unknown"
             }
@@ -245,7 +245,7 @@
               "variant": "Google Pixel 10 Obsidian 128 GB（SIM フリー）",
               "price": 128900.0,
               "currency": "JPY",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             },
             {
               "variant": "Google Pixel 10 Obsidian 256 GB（SIM フリー）",
@@ -300,7 +300,7 @@
               "variant": "Google Pixel 10 Pro XL Jade 256 GB（SIM フリー）",
               "price": 192900.0,
               "currency": "JPY",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             },
             {
               "variant": "Google Pixel 10 Pro XL Porcelain 256 GB（SIM フリー）",
@@ -350,7 +350,7 @@
         {
           "slug": "pixel_10a",
           "type": "config",
-          "name": "Pixel 10a",
+          "name": "Google Pixel 10a を購入 - 日常のための設計",
           "variants": [
             {
               "variant": "Google Pixel 10a Obsidian 128 GB（SIM フリー）",
@@ -405,7 +405,7 @@
         {
           "slug": "pixel_11",
           "type": "config",
-          "name": "Google Pixel 11",
+          "name": "Google Pixel 11 を購入",
           "variants": [
             {
               "variant": "Google Pixel 11 Obsidian 256 GB（SIM フリー）",
@@ -460,7 +460,7 @@
         {
           "slug": "pixel_11_pro",
           "type": "config",
-          "name": "Google Pixel 11 Pro",
+          "name": "Google Pixel 11 Pro を購入",
           "variants": [
             {
               "variant": "Google Pixel 11 Pro Canyon 256 GB （SIM フリー）",
@@ -575,7 +575,7 @@
         {
           "slug": "pixel_11_pro_fold",
           "type": "config",
-          "name": "Google Pixel 11 Pro Fold",
+          "name": "Google Pixel 11 Pro Fold を購入",
           "variants": [
             {
               "variant": "Google Pixel 11 Pro Fold Obsidian 256 GB（SIM フリー）",
@@ -1198,121 +1198,121 @@
           ]
         },
         {
-          "product": "Pixel 10a",
+          "product": "Pixel 10a を購入 - 日常のための設計",
           "offers": [
             {
               "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2010a",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2010a%20%E3%82%92%E8%B3%BC%E5%85%A5%20-%20%E6%97%A5%E5%B8%B8%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A8%AD%E8%A8%88",
               "method": "search_link"
             },
             {
               "platform": "Rakuten Ichiba",
-              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2010a/",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2010a%20%E3%82%92%E8%B3%BC%E5%85%A5%20-%20%E6%97%A5%E5%B8%B8%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A8%AD%E8%A8%88/",
               "method": "search_link"
             },
             {
               "platform": "Yodobashi Camera",
-              "url": "https://www.yodobashi.com/?word=Pixel%2010a",
+              "url": "https://www.yodobashi.com/?word=Pixel%2010a%20%E3%82%92%E8%B3%BC%E5%85%A5%20-%20%E6%97%A5%E5%B8%B8%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A8%AD%E8%A8%88",
               "method": "search_link"
             },
             {
               "platform": "Biccamera",
-              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2010a",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2010a%20%E3%82%92%E8%B3%BC%E5%85%A5%20-%20%E6%97%A5%E5%B8%B8%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A8%AD%E8%A8%88",
               "method": "search_link"
             },
             {
               "platform": "Kakaku.com (price comparison)",
-              "url": "https://kakaku.com/search_results/Pixel%2010a/",
+              "url": "https://kakaku.com/search_results/Pixel%2010a%20%E3%82%92%E8%B3%BC%E5%85%A5%20-%20%E6%97%A5%E5%B8%B8%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A8%AD%E8%A8%88/",
               "method": "search_link"
             }
           ]
         },
         {
-          "product": "Pixel 11",
+          "product": "Pixel 11 を購入",
           "offers": [
             {
               "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2011",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Rakuten Ichiba",
-              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011/",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20%E3%82%92%E8%B3%BC%E5%85%A5/",
               "method": "search_link"
             },
             {
               "platform": "Yodobashi Camera",
-              "url": "https://www.yodobashi.com/?word=Pixel%2011",
+              "url": "https://www.yodobashi.com/?word=Pixel%2011%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Biccamera",
-              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Kakaku.com (price comparison)",
-              "url": "https://kakaku.com/search_results/Pixel%2011/",
+              "url": "https://kakaku.com/search_results/Pixel%2011%20%E3%82%92%E8%B3%BC%E5%85%A5/",
               "method": "search_link"
             }
           ]
         },
         {
-          "product": "Pixel 11 Pro",
+          "product": "Pixel 11 Pro を購入",
           "offers": [
             {
               "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Rakuten Ichiba",
-              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro/",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro%20%E3%82%92%E8%B3%BC%E5%85%A5/",
               "method": "search_link"
             },
             {
               "platform": "Yodobashi Camera",
-              "url": "https://www.yodobashi.com/?word=Pixel%2011%20Pro",
+              "url": "https://www.yodobashi.com/?word=Pixel%2011%20Pro%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Biccamera",
-              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Kakaku.com (price comparison)",
-              "url": "https://kakaku.com/search_results/Pixel%2011%20Pro/",
+              "url": "https://kakaku.com/search_results/Pixel%2011%20Pro%20%E3%82%92%E8%B3%BC%E5%85%A5/",
               "method": "search_link"
             }
           ]
         },
         {
-          "product": "Pixel 11 Pro Fold",
+          "product": "Pixel 11 Pro Fold を購入",
           "offers": [
             {
               "platform": "Amazon Japan",
-              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro%20Fold",
+              "url": "https://www.amazon.co.jp/s?k=Pixel%2011%20Pro%20Fold%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Rakuten Ichiba",
-              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro%20Fold/",
+              "url": "https://search.rakuten.co.jp/search/mall/Pixel%2011%20Pro%20Fold%20%E3%82%92%E8%B3%BC%E5%85%A5/",
               "method": "search_link"
             },
             {
               "platform": "Yodobashi Camera",
-              "url": "https://www.yodobashi.com/?word=Pixel%2011%20Pro%20Fold",
+              "url": "https://www.yodobashi.com/?word=Pixel%2011%20Pro%20Fold%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Biccamera",
-              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro%20Fold",
+              "url": "https://www.biccamera.com/bc/result/?q=Pixel%2011%20Pro%20Fold%20%E3%82%92%E8%B3%BC%E5%85%A5",
               "method": "search_link"
             },
             {
               "platform": "Kakaku.com (price comparison)",
-              "url": "https://kakaku.com/search_results/Pixel%2011%20Pro%20Fold/",
+              "url": "https://kakaku.com/search_results/Pixel%2011%20Pro%20Fold%20%E3%82%92%E8%B3%BC%E5%85%A5/",
               "method": "search_link"
             }
           ]
@@ -1583,7 +1583,7 @@
         {
           "slug": "pixel_11",
           "type": "config",
-          "name": "Google Pixel 11",
+          "name": "Buy Google Pixel 11",
           "variants": [
             {
               "variant": "Pixel 11 Obsidian 256GB (Unlocked)",
@@ -1638,89 +1638,89 @@
         {
           "slug": "pixel_11_pro",
           "type": "config",
-          "name": "Google Pixel 11 Pro",
+          "name": "Buy Google Pixel 11 Pro",
           "variants": [
             {
               "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
-              "price": 119999.0,
+              "price": 109999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fog 256GB (Unlocked)",
-              "price": 119999.0,
+              "price": 109999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Obsidian (matte) 256GB (Unlocked)",
-              "price": 119999.0,
+              "price": 109999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Olive 256GB (Unlocked)",
-              "price": 119999.0,
+              "price": 109999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Canyon 256GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Fog 256GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Obsidian (matte) 256GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL olive 256GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro canyon 512GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fog 512GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Obsidian (matte) 512GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Olive 512GB (Unlocked)",
-              "price": 134999.0,
+              "price": 124999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Fog 512GB (Unlocked)",
-              "price": 149999.0,
+              "price": 139999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Obsidian (matte) 512GB (Unlocked)",
-              "price": 149999.0,
+              "price": 139999.0,
               "currency": "INR",
               "availability": "InStock"
             }
@@ -1729,7 +1729,7 @@
         {
           "slug": "pixel_11_pro_fold",
           "type": "config",
-          "name": "Google Pixel 11 Pro Fold",
+          "name": "Buy Google Pixel 11 Pro Fold",
           "variants": [
             {
               "variant": "Pixel 11 Pro Fold Olive 512GB (Unlocked)",
@@ -1768,7 +1768,7 @@
         {
           "slug": "pixel_watch_3",
           "type": "config",
-          "name": "Pixel Watch 5",
+          "name": "Google Pixel Watch 5",
           "variants": [
             {
               "variant": null,
@@ -2289,7 +2289,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 159.99,
+              "price": 219.0,
               "currency": "AUD",
               "availability": "Unknown"
             }
@@ -2633,7 +2633,7 @@
         {
           "slug": "pixel_11",
           "type": "config",
-          "name": "Google Pixel 11",
+          "name": "Buy Google Pixel 11",
           "variants": [
             {
               "variant": "Pixel 11 Obsidian 256GB (Unlocked)",
@@ -2688,7 +2688,7 @@
         {
           "slug": "pixel_11_pro",
           "type": "config",
-          "name": "Google Pixel 11 Pro",
+          "name": "Buy Google Pixel 11 Pro",
           "variants": [
             {
               "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
@@ -2796,14 +2796,14 @@
               "variant": "Pixel 11 Pro XL Obsidian (matte) 1TB (Unlocked)",
               "price": 2649.0,
               "currency": "AUD",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             }
           ]
         },
         {
           "slug": "pixel_11_pro_fold",
           "type": "config",
-          "name": "Google Pixel 11 Pro Fold",
+          "name": "Buy Google Pixel 11 Pro Fold",
           "variants": [
             {
               "variant": "Pixel 11 Pro Fold Obsidian 256 GB (unlocked)",
@@ -2854,7 +2854,7 @@
         {
           "slug": "pixel_watch_3",
           "type": "config",
-          "name": "Pixel Watch 5",
+          "name": "Google Pixel Watch 5",
           "variants": [
             {
               "variant": null,
@@ -4032,7 +4032,7 @@
         {
           "slug": "pixel_11",
           "type": "config",
-          "name": "Google Pixel 11",
+          "name": "Buy Google Pixel 11",
           "variants": [
             {
               "variant": "Pixel 11 Obsidian 256GB (Unlocked)",
@@ -4087,7 +4087,7 @@
         {
           "slug": "pixel_11_pro",
           "type": "config",
-          "name": "Google Pixel 11 Pro",
+          "name": "Buy Google Pixel 11 Pro",
           "variants": [
             {
               "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
@@ -4202,7 +4202,7 @@
         {
           "slug": "pixel_11_pro_fold",
           "type": "config",
-          "name": "Google Pixel 11 Pro Fold",
+          "name": "Buy Google Pixel 11 Pro Fold",
           "variants": [
             {
               "variant": "Pixel 11 Pro Fold Obsidian 256 GB (unlocked)",
@@ -4289,8 +4289,10 @@
           "offers": [
             {
               "platform": "Amazon Singapore",
+              "matched_title": "Google Fitbit Charge 6 Activity Tracker with 6-months Premium Membership Included, 7 days battery life and Google Wallet and Google Maps",
+              "price": 191.71,
               "url": "https://www.amazon.sg/s?k=Fitbit%20Charge%C2%A06%20Tracker",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "Shopee Singapore",
@@ -4679,8 +4681,10 @@
           "offers": [
             {
               "platform": "Amazon Singapore",
+              "matched_title": "Google Pixel Buds 2a - Active Noise Cancelling Wireless Headphones - Lightweight and Comfortable - Water Resistant - Bluetooth Compatible - Berry",
+              "price": 183.01,
               "url": "https://www.amazon.sg/s?k=Pixel%20Buds%202a",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "Shopee Singapore",
@@ -4709,8 +4713,10 @@
           "offers": [
             {
               "platform": "Amazon Singapore",
+              "matched_title": "Google Pixel Buds Pro 2 Peony GA05761-JP Small",
+              "price": 337.04,
               "url": "https://www.amazon.sg/s?k=Pixel%20Buds%C2%A0Pro%C2%A02",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "Shopee Singapore",
@@ -4859,7 +4865,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 3250.0,
+              "price": 4500.0,
               "currency": "TWD",
               "availability": "Unknown"
             }
@@ -5119,7 +5125,7 @@
         {
           "slug": "pixel_11",
           "type": "config",
-          "name": "Google Pixel 11",
+          "name": "購買 Google Pixel 11",
           "variants": [
             {
               "variant": "Pixel 11 曜石黑 256 GB (無鎖版)",
@@ -5174,7 +5180,7 @@
         {
           "slug": "pixel_11_pro",
           "type": "config",
-          "name": "Google Pixel 11 Pro",
+          "name": "購買 Google Pixel 11 Pro",
           "variants": [
             {
               "variant": "Pixel 11 Pro 砂岩粉 256 GB (無鎖版)",
@@ -5289,7 +5295,7 @@
         {
           "slug": "pixel_11_pro_fold",
           "type": "config",
-          "name": "Google Pixel 11 Pro Fold",
+          "name": "購買 Google Pixel 11 Pro Fold",
           "variants": [
             {
               "variant": "Pixel 11 Pro Fold 曜石黑 256 GB (無鎖版)",
@@ -5518,9 +5524,9 @@
             {
               "platform": "PChome 24h",
               "matched_title": "Pixel 10a (8GB/256GB)",
-              "price": 17618,
-              "original_price": 17618,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3O-1900K1M5R",
+              "price": 16990,
+              "original_price": 16990,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3O-A900KMRYS",
               "method": "scraped"
             },
             {
@@ -5540,10 +5546,10 @@
           "offers": [
             {
               "platform": "PChome 24h",
-              "matched_title": "Pixel 11 12G/256G",
-              "price": 29990,
-              "original_price": 29990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIXN",
+              "matched_title": "Pixel 11 12G/512G",
+              "price": 33990,
+              "original_price": 33990,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3W-1900KCIWH",
               "method": "scraped"
             },
             {
@@ -5564,8 +5570,8 @@
             {
               "platform": "Yahoo奇摩購物中心",
               "matched_title": "Google Pixel 11 Pro 5G (12G/256G) 6.3吋智慧型手機",
-              "price": 34990.0,
-              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-5G-12G-256G-6-3吋智慧型手機-12307333.html",
+              "price": 34490.0,
+              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-5G-12G-256G-6-3吋智慧型手機-12251710.html",
               "method": "scraped"
             },
             {
@@ -5588,14 +5594,7 @@
               "matched_title": "Pixel 11 Pro Fold 16G/256G 橄欖綠",
               "price": 60990,
               "original_price": 60990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3Y-1900KCIMA",
-              "method": "scraped"
-            },
-            {
-              "platform": "Yahoo奇摩購物中心",
-              "matched_title": "Google Pixel 11 Pro Fold 5G (16G/256G) 摺疊機",
-              "price": 58990.0,
-              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-Fold-5G-16G-256G-摺疊機-12307197.html",
+              "url": "https://24h.pchome.com.tw/prod/DYAT3K-A900KA6X7",
               "method": "scraped"
             },
             {
