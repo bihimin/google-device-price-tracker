@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:28:39.641102+00:00",
+  "generated_at": "2026-11-10T01:09:25.781668+00:00",
   "markets": {
     "jp": {
       "market_name": "Japan",
@@ -245,7 +245,7 @@
               "variant": "Google Pixel 10 Obsidian 128 GB（SIM フリー）",
               "price": 128900.0,
               "currency": "JPY",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Google Pixel 10 Obsidian 256 GB（SIM フリー）",
@@ -1556,25 +1556,25 @@
           "variants": [
             {
               "variant": "Pixel 10a Obsidian 256GB (Unlocked)",
-              "price": 52999.0,
+              "price": 55999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Fog 256GB (Unlocked)",
-              "price": 52999.0,
+              "price": 55999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Lavender 256GB (Unlocked)",
-              "price": 52999.0,
+              "price": 55999.0,
               "currency": "INR",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Berry 256GB (Unlocked)",
-              "price": 52999.0,
+              "price": 55999.0,
               "currency": "INR",
               "availability": "InStock"
             }
@@ -2407,7 +2407,7 @@
               "variant": "Pixel 10 Frost 128 GB (unlocked)",
               "price": 1349.0,
               "currency": "AUD",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Pixel 10 Frost 256 GB (unlocked)",
@@ -2419,7 +2419,7 @@
               "variant": "Pixel 10 Lemongrass 128 GB (unlocked)",
               "price": 1349.0,
               "currency": "AUD",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Pixel 10 Lemongrass 256 GB (unlocked)",
@@ -2431,7 +2431,7 @@
               "variant": "Pixel 10 Obsidian 128 GB (unlocked)",
               "price": 1349.0,
               "currency": "AUD",
-              "availability": "OutOfStock"
+              "availability": "InStock"
             },
             {
               "variant": "Pixel 10 Obsidian 256 GB (unlocked)",
@@ -2854,7 +2854,7 @@
         {
           "slug": "pixel_watch_3",
           "type": "config",
-          "name": "Google Pixel Watch 5",
+          "name": "Pixel 11, 11 Pro and XL",
           "variants": [
             {
               "variant": null,
@@ -2920,8 +2920,10 @@
           "offers": [
             {
               "platform": "Amazon Australia",
+              "matched_title": "Google Fitbit Inspire 3 - Health &amp; Fitness Tracker Women/Men - Heart Rate Monitor, Stress Management, Sleep Analysis &amp; Up to 10 Days Battery Life - Fitness Watch Compatible with Android/iOS",
+              "price": 132.8,
               "url": "https://www.amazon.com.au/s?k=Fitbit%20Inspire%C2%A03%20tracker",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "JB Hi-Fi",
@@ -2950,8 +2952,10 @@
           "offers": [
             {
               "platform": "Amazon Australia",
+              "matched_title": "Google Fitbit Sense 2 - Smartwatch Women/Men - Fitness Watch with Built-in GPS and Phone Function - Fitness Tracking with Stress Management, ECG and Sleep Analysis - Compatible with Android/iOS",
+              "price": 273.39,
               "url": "https://www.amazon.com.au/s?k=Fitbit%20Sense%C2%A02%20Smartwatch",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "JB Hi-Fi",
@@ -3400,8 +3404,10 @@
           "offers": [
             {
               "platform": "Amazon Australia",
+              "matched_title": "Google Pixel 10 - Obsidian, 128GB (Global Version)",
+              "price": 817.67,
               "url": "https://www.amazon.com.au/s?k=Pixel%C2%A010",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "JB Hi-Fi",
@@ -3640,8 +3646,10 @@
           "offers": [
             {
               "platform": "Amazon Australia",
+              "matched_title": "Google Pixel Buds Pro 2 Peony GA05761-JP Small",
+              "price": 393.28,
               "url": "https://www.amazon.com.au/s?k=Pixel%20Buds%C2%A0Pro%C2%A02",
-              "method": "search_link"
+              "method": "scraped"
             },
             {
               "platform": "JB Hi-Fi",
@@ -3666,31 +3674,31 @@
           ]
         },
         {
-          "product": "Pixel Watch 5",
+          "product": "Pixel 11, 11 Pro and XL",
           "offers": [
             {
               "platform": "Amazon Australia",
-              "url": "https://www.amazon.com.au/s?k=Pixel%20Watch%205",
+              "url": "https://www.amazon.com.au/s?k=Pixel%2011%2C%2011%20Pro%20and%20XL",
               "method": "search_link"
             },
             {
               "platform": "JB Hi-Fi",
-              "url": "https://www.jbhifi.com.au/search?q=Pixel%20Watch%205",
+              "url": "https://www.jbhifi.com.au/search?q=Pixel%2011%2C%2011%20Pro%20and%20XL",
               "method": "search_link"
             },
             {
               "platform": "Officeworks",
-              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%20Watch%205",
+              "url": "https://www.officeworks.com.au/shop/officeworks/search?q=Pixel%2011%2C%2011%20Pro%20and%20XL",
               "method": "search_link"
             },
             {
               "platform": "Harvey Norman",
-              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%20Watch%205",
+              "url": "https://www.harveynorman.com.au/catalogsearch/result/?q=Pixel%2011%2C%2011%20Pro%20and%20XL",
               "method": "search_link"
             },
             {
               "platform": "The Good Guys",
-              "url": "https://www.thegoodguys.com.au/search?q=Pixel%20Watch%205",
+              "url": "https://www.thegoodguys.com.au/search?q=Pixel%2011%2C%2011%20Pro%20and%20XL",
               "method": "search_link"
             }
           ]
@@ -3987,43 +3995,43 @@
           "variants": [
             {
               "variant": "Pixel 10a Obsidian 128 GB (unlocked)",
-              "price": 899.0,
+              "price": 799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Fog 128 GB (unlocked)",
-              "price": 899.0,
+              "price": 799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Lavender 128 GB (unlocked)",
-              "price": 899.0,
+              "price": 799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Obsidian 256 GB (unlocked)",
-              "price": 1039.0,
+              "price": 939.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Fog 256 GB (unlocked)",
-              "price": 1039.0,
+              "price": 939.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Lavender 256 GB (unlocked)",
-              "price": 1039.0,
+              "price": 939.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a Berry 256 GB (unlocked)",
-              "price": 1039.0,
+              "price": 939.0,
               "currency": "SGD",
               "availability": "InStock"
             }
@@ -4091,109 +4099,109 @@
           "variants": [
             {
               "variant": "Pixel 11 Pro Canyon 256GB (Unlocked)",
-              "price": 1599.0,
+              "price": 1439.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fog 256GB (Unlocked)",
-              "price": 1599.0,
+              "price": 1439.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Obsidian (matte) 256GB (Unlocked)",
-              "price": 1599.0,
+              "price": 1439.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Olive 256GB (Unlocked)",
-              "price": 1599.0,
+              "price": 1439.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Canyon 256GB (Unlocked)",
-              "price": 1819.0,
+              "price": 1639.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Fog 256GB (Unlocked)",
-              "price": 1819.0,
+              "price": 1639.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Obsidian (matte) 256GB (Unlocked)",
-              "price": 1819.0,
+              "price": 1639.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Olive 256 GB (unlocked)",
-              "price": 1819.0,
+              "price": 1639.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Canyon 512 GB (unlocked)",
-              "price": 1779.0,
+              "price": 1599.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fog 512GB (Unlocked)",
-              "price": 1779.0,
+              "price": 1599.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Obsidian (matte) 512GB (Unlocked)",
-              "price": 1779.0,
+              "price": 1599.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Olive 512GB (Unlocked)",
-              "price": 1779.0,
+              "price": 1599.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Canyon 512GB (Unlocked)",
-              "price": 1999.0,
+              "price": 1799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Fog 512GB (Unlocked)",
-              "price": 1999.0,
+              "price": 1799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Obsidian (matte) 512GB (Unlocked)",
-              "price": 1999.0,
+              "price": 1799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL Olive 512GB (Unlocked)",
-              "price": 1999.0,
+              "price": 1799.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Obsidian (matte) 1TB (Unlocked)",
-              "price": 2099.0,
+              "price": 1889.0,
               "currency": "SGD",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             },
             {
               "variant": "Pixel 11 Pro XL Obsidian (matte) 1TB (Unlocked)",
-              "price": 2319.0,
+              "price": 2079.0,
               "currency": "SGD",
               "availability": "InStock"
             }
@@ -4206,25 +4214,25 @@
           "variants": [
             {
               "variant": "Pixel 11 Pro Fold Obsidian 256 GB (unlocked)",
-              "price": 2499.0,
+              "price": 2249.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fold Olive 256 GB (unlocked)",
-              "price": 2499.0,
+              "price": 2249.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fold Obsidian 512 GB (unlocked)",
-              "price": 2679.0,
+              "price": 2429.0,
               "currency": "SGD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fold Obsidian 1 TB (unlocked)",
-              "price": 2999.0,
+              "price": 2749.0,
               "currency": "SGD",
               "availability": "InStock"
             }
@@ -4237,7 +4245,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 199.0,
+              "price": 139.0,
               "currency": "SGD",
               "availability": "Unknown"
             }
@@ -4250,7 +4258,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 349.0,
+              "price": 249.0,
               "currency": "SGD",
               "availability": "Unknown"
             }
@@ -4263,7 +4271,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 569.0,
+              "price": 479.0,
               "currency": "SGD",
               "availability": "Unknown"
             }
@@ -4290,7 +4298,7 @@
             {
               "platform": "Amazon Singapore",
               "matched_title": "Google Fitbit Charge 6 Activity Tracker with 6-months Premium Membership Included, 7 days battery life and Google Wallet and Google Maps",
-              "price": 191.71,
+              "price": 185.56,
               "url": "https://www.amazon.sg/s?k=Fitbit%20Charge%C2%A06%20Tracker",
               "method": "scraped"
             },
@@ -4681,8 +4689,8 @@
           "offers": [
             {
               "platform": "Amazon Singapore",
-              "matched_title": "Google Pixel Buds 2a - Active Noise Cancelling Wireless Headphones - Lightweight and Comfortable - Water Resistant - Bluetooth Compatible - Berry",
-              "price": 183.01,
+              "matched_title": "Google Pixel Buds 2a - Wireless Earbuds with Active Noise Cancellation - Lightweight, Comfortable Fit - Water Resistant - Bluetooth Compatible - Iris",
+              "price": 176.12,
               "url": "https://www.amazon.sg/s?k=Pixel%20Buds%202a",
               "method": "scraped"
             },
@@ -4713,8 +4721,8 @@
           "offers": [
             {
               "platform": "Amazon Singapore",
-              "matched_title": "Google Pixel Buds Pro 2 Peony GA05761-JP Small",
-              "price": 337.04,
+              "matched_title": "Google Pixel Buds Pro 2 - Wireless Active Noise Cancelling Headphones - Bluetooth Headphones - Moonstone",
+              "price": 268.29,
               "url": "https://www.amazon.sg/s?k=Pixel%20Buds%C2%A0Pro%C2%A02",
               "method": "scraped"
             },
@@ -5080,43 +5088,43 @@
           "variants": [
             {
               "variant": "Pixel 10a 曜石黑 128 GB (無鎖版)",
-              "price": 16490.0,
+              "price": 14841.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a 迷霧灰 128 GB (無鎖版)",
-              "price": 16490.0,
+              "price": 14841.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a 薰衣草紫 128 GB (無鎖版)",
-              "price": 16490.0,
+              "price": 14841.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a 曜石黑 256 GB (無鎖版)",
-              "price": 19990.0,
+              "price": 18341.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a 迷霧灰 256 GB (無鎖版)",
-              "price": 19990.0,
+              "price": 18341.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a 薰衣草紫 256 GB (無鎖版)",
-              "price": 19990.0,
+              "price": 18341.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 10a 草莓粉 256 GB (無鎖版)",
-              "price": 19990.0,
+              "price": 18341.0,
               "currency": "TWD",
               "availability": "InStock"
             }
@@ -5184,109 +5192,109 @@
           "variants": [
             {
               "variant": "Pixel 11 Pro 砂岩粉 256 GB (無鎖版)",
-              "price": 36990.0,
+              "price": 33291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 迷霧灰 256 GB (無鎖版)",
-              "price": 36990.0,
+              "price": 33291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 曜石黑 (霧面) 256 GB (無鎖版)",
-              "price": 36990.0,
+              "price": 33291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 橄欖綠 256 GB (無鎖版)",
-              "price": 36990.0,
+              "price": 33291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 砂岩粉 256 GB (無鎖版)",
-              "price": 42990.0,
+              "price": 38691.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 迷霧灰 256 GB (無鎖版)",
-              "price": 42990.0,
+              "price": 38691.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 曜石黑 (霧面) 256 GB (無鎖版)",
-              "price": 42990.0,
+              "price": 38691.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 橄欖綠 256 GB (無鎖版)",
-              "price": 42990.0,
+              "price": 38691.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 砂岩粉 512 GB (無鎖版)",
-              "price": 40990.0,
+              "price": 36891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 迷霧灰 512 GB (無鎖版)",
-              "price": 40990.0,
+              "price": 36891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 曜石黑 512 GB (無鎖版)",
-              "price": 40990.0,
+              "price": 36891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 橄欖綠 512 GB (無鎖版)",
-              "price": 40990.0,
+              "price": 36891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 砂岩粉 512 GB (無鎖版)",
-              "price": 46990.0,
+              "price": 42291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 迷霧灰 512 GB (無鎖版)",
-              "price": 46990.0,
+              "price": 42291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 曜石黑 (霧面) 512 GB (無鎖版)",
-              "price": 46990.0,
+              "price": 42291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro XL 橄欖綠 512 GB (無鎖版)",
-              "price": 46990.0,
+              "price": 42291.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro 曜石黑 (霧面) 1 TB (無鎖版)",
-              "price": 48990.0,
+              "price": 44091.0,
               "currency": "TWD",
-              "availability": "InStock"
+              "availability": "OutOfStock"
             },
             {
               "variant": "Pixel 11 Pro XL 曜石黑 (霧面) 1 TB (無鎖版)",
-              "price": 54990.0,
+              "price": 49491.0,
               "currency": "TWD",
               "availability": "InStock"
             }
@@ -5299,25 +5307,25 @@
           "variants": [
             {
               "variant": "Pixel 11 Pro Fold 曜石黑 256 GB (無鎖版)",
-              "price": 60990.0,
+              "price": 54891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fold 橄欖綠 256 GB (無鎖版)",
-              "price": 60990.0,
+              "price": 54891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fold 曜石黑 512 GB (無鎖版)",
-              "price": 64990.0,
+              "price": 58891.0,
               "currency": "TWD",
               "availability": "InStock"
             },
             {
               "variant": "Pixel 11 Pro Fold 曜石黑 1 TB (無鎖版)",
-              "price": 72990.0,
+              "price": 66891.0,
               "currency": "TWD",
               "availability": "InStock"
             }
@@ -5330,7 +5338,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 4499.0,
+              "price": 3599.0,
               "currency": "TWD",
               "availability": "Unknown"
             }
@@ -5343,7 +5351,7 @@
           "variants": [
             {
               "variant": null,
-              "price": 7490.0,
+              "price": 5468.0,
               "currency": "TWD",
               "availability": "Unknown"
             }
@@ -5356,13 +5364,13 @@
           "variants": [
             {
               "variant": null,
-              "price": 12990.0,
+              "price": 11041.0,
               "currency": "TWD",
               "availability": "Unknown"
             },
             {
               "variant": null,
-              "price": 12990.0,
+              "price": 11041.0,
               "currency": "TWD",
               "availability": "Unknown"
             }
@@ -5524,9 +5532,9 @@
             {
               "platform": "PChome 24h",
               "matched_title": "Pixel 10a (8GB/256GB)",
-              "price": 16990,
-              "original_price": 16990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3O-A900KMRYS",
+              "price": 16011,
+              "original_price": 16011,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3O-1900K1M5R",
               "method": "scraped"
             },
             {
@@ -5546,10 +5554,10 @@
           "offers": [
             {
               "platform": "PChome 24h",
-              "matched_title": "Pixel 11 12G/512G",
-              "price": 33990,
-              "original_price": 33990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3W-1900KCIWH",
+              "matched_title": "Pixel 11 12G/256G",
+              "price": 29990,
+              "original_price": 29990,
+              "url": "https://24h.pchome.com.tw/prod/DYAT3V-1900KCIY0",
               "method": "scraped"
             },
             {
@@ -5570,8 +5578,8 @@
             {
               "platform": "Yahoo奇摩購物中心",
               "matched_title": "Google Pixel 11 Pro 5G (12G/256G) 6.3吋智慧型手機",
-              "price": 34490.0,
-              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-5G-12G-256G-6-3吋智慧型手機-12251710.html",
+              "price": 29911.0,
+              "url": "https://tw.buy.yahoo.com/gdsale/Google-Pixel-11-Pro-5G-12G-256G-6-3吋智慧型手機-12307333.html",
               "method": "scraped"
             },
             {
@@ -5591,10 +5599,10 @@
           "offers": [
             {
               "platform": "PChome 24h",
-              "matched_title": "Pixel 11 Pro Fold 16G/256G 橄欖綠",
-              "price": 60990,
-              "original_price": 60990,
-              "url": "https://24h.pchome.com.tw/prod/DYAT3K-A900KA6X7",
+              "matched_title": "Pixel 11 Pro Fold (16G/256G)",
+              "price": 55111,
+              "original_price": 55111,
+              "url": "https://24h.pchome.com.tw/prod/DYAT36-A900KFIY9",
               "method": "scraped"
             },
             {
@@ -5645,8 +5653,8 @@
             {
               "platform": "PChome 24h",
               "matched_title": "Google Pixel Watch 5 41mm BT版",
-              "price": 12990,
-              "original_price": 12990,
+              "price": 11111,
+              "original_price": 11111,
               "url": "https://24h.pchome.com.tw/prod/DYAT40-1900KCS4J",
               "method": "scraped"
             },
